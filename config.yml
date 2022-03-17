@@ -1,0 +1,14 @@
+repo_maxage: 7
+
+repo_url: https://gitjournal.io/fdroid/repo
+repo_name: GitJournal
+repo_icon: fdroid-icon.png
+repo_description: This is a repository of GitJournal to be used with F-Droid.
+
+gpgKey: BCC5389D
+
+repo_keyalias: GitJournal
+keydname: CN=gitjournal.io, OU=GitJournal
+keystorepass: e+9C2Yfno59Gkimr9kuaIPBzMcjczE44uNM20KHc9G8=
+keypass: e+9C2Yfno59Gkimr9kuaIPBzMcjczE44uNM20KHc9G8=
+keystore: keystore.jks

@@ -1,0 +1,76 @@
+name: Update Dev Build
+
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  fdroid:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Import GPG key
+        id: import_gpg
+        uses: crazy-max/ghaction-import-gpg@v4
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+      - name: GPG user IDs
+        run: |
+          echo "fingerprint: ${{ steps.import_gpg.outputs.fingerprint }}"
+          echo "keyid:       ${{ steps.import_gpg.outputs.keyid }}"
+          echo "name:        ${{ steps.import_gpg.outputs.name }}"
+          echo "email:       ${{ steps.import_gpg.outputs.email }}"
+      - name: Unlock Secrets
+        run: |
+          sudo apt-get install -y git-crypt
+          ./scripts/decrypt_secrets.sh
+        env:
+          GITCRYPT_KEY: ${{ secrets.GITCRYPT_KEY }}
+
+      - name: Restore correct mtime
+        run: |
+          sudo apt install git-restore-mtime
+          git restore-mtime
+      - name: Install F-Droid server software
+        run: |
+          sudo add-apt-repository ppa:fdroid/fdroidserver
+          sudo apt-get update
+          sudo apt-get install fdroidserver
+
+      - name: Download fdroid-updator
+        uses: robinraju/release-downloader@v1.2
+        with:
+          repository: "GitJournal/fdroid-updator"
+          latest: true
+          filename: fdroid-updator_Linux_x86_64.tar.gz
+          out-file-path: ./
+      - name: Install fdroid-updator
+        run: tar -xf *.tar.gz --verbose
+
+      - name: Download Android Publisher CLI
+        uses: robinraju/release-downloader@v1.2
+        with:
+          repository: "GitJournal/apb"
+          latest: true
+          filename: apk-linux-x64
+          out-file-path: /usr/bin/apb
+
+      - name: Download apks
+        run: ./fdroid-updator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update repo
+        run: make update
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          branch: master
+          message: Auto Update Repo
+          github_token: ${{ secrets.GITHUB_TOKEN }}

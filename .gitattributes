@@ -1,0 +1,2 @@
+keystore.jks filter=git-crypt diff=git-crypt
+google-play-api-key.json filter=git-crypt diff=git-crypt
