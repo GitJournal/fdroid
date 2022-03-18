@@ -1,7 +1,7 @@
 {
   "repo": {
-    "timestamp": 1647527725000,
-    "version": 20000,
+    "timestamp": 1647565293000,
+    "version": 20001,
     "maxage": 7,
     "name": "GitJournal",
     "icon": "fdroid-icon.png",
@@ -18,7 +18,7 @@
       "categories": [
         "Writing"
       ],
-      "suggestedVersionCode": "3526",
+      "suggestedVersionCode": "3527",
       "description": "Mobile First Note Taking integrated with Git\n",
       "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
       "license": "AGPL-3.0-or-later",
@@ -26,10 +26,10 @@
       "sourceCode": "https://github.com/GitJournal/GitJournal",
       "summary": "Mobile First Note Taking integrated with Git",
       "webSite": "https://gitjournal.io/",
-      "added": 347158862000,
+      "added": 1647528015000,
       "icon": "io.gitjournal.gitjournal.3527.png",
       "packageName": "io.gitjournal.gitjournal",
-      "lastUpdated": 347158862000
+      "lastUpdated": 1647528015000
     },
     {
       "authorName": "Vishesh Handa <vhanda@gitjournal.io>",
@@ -44,16 +44,16 @@
       "sourceCode": "https://github.com/GitJournal/GitJournal",
       "summary": "Mobile First Note Taking integrated with Git",
       "webSite": "https://gitjournal.io/",
-      "added": 347158862000,
+      "added": 1647528015000,
       "icon": "io.gitjournal.gitjournal.dev.3527.png",
       "packageName": "io.gitjournal.gitjournal.dev",
-      "lastUpdated": 347158862000
+      "lastUpdated": 1647528015000
     }
   ],
   "packages": {
     "io.gitjournal.gitjournal": [
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal_3527.apk",
         "hash": "c18ad205c02d45196f6192c636d58f179fcd8388c1ed6eee2b3d462ec35c2df5",
         "hashType": "sha256",
@@ -105,7 +105,7 @@
         "versionName": "1.83.9"
       },
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal_3526.apk",
         "hash": "b62f804e347b42c81a53336576f404e8cd02d9b8d56b78dee87b812c9172fcb9",
         "hashType": "sha256",
@@ -157,7 +157,7 @@
         "versionName": "1.83.9"
       },
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal_3524.apk",
         "hash": "1eee8e27745eae709c3b2811a7a694af88c5d8a25ad023744a805f036e6a588e",
         "hashType": "sha256",
@@ -209,7 +209,7 @@
         "versionName": "1.83.8"
       },
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal_3523.apk",
         "hash": "07bf800f7f32ca08b7042ae1aad29e66eaba0b6446d808c970d5f4077a5b7ab6",
         "hashType": "sha256",
@@ -261,7 +261,7 @@
         "versionName": "1.83.8"
       },
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal_3522.apk",
         "hash": "927fd7a11522d0b992c2775344d09402c8fe1606062e3ee4b0c6fec828f26d3e",
         "hashType": "sha256",
@@ -313,7 +313,7 @@
         "versionName": "1.83.8"
       },
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal_3406.apk",
         "hash": "7205244bb61fc86437c2f18be753176a512c41a0d0198f327f849d64ec7ca9bb",
         "hashType": "sha256",
@@ -355,7 +355,7 @@
     ],
     "io.gitjournal.gitjournal.dev": [
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal.dev_3527.apk",
         "hash": "8568907f03fe5bf80f2cb58de46ea3d993f37ef29fdf24bf821f136c169c1818",
         "hashType": "sha256",
@@ -407,7 +407,7 @@
         "versionName": "1.83.9-dev"
       },
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal.dev_3526.apk",
         "hash": "25a38a76791f9ffd05ffdf3e6a50d7218b42444e36894b1eb7e566d8039ef439",
         "hashType": "sha256",
@@ -459,7 +459,7 @@
         "versionName": "1.83.9-dev"
       },
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal.dev_3524.apk",
         "hash": "5238731f4398cf105358f3fae8d2a04d321ee9a493a8ed663231084c6ec2af9a",
         "hashType": "sha256",
@@ -511,7 +511,7 @@
         "versionName": "1.83.8-dev"
       },
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal.dev_3523.apk",
         "hash": "52ec6f041ae6da94b2cd46db36233013185f7423ec3ea1be861ba8b7c3faf49a",
         "hashType": "sha256",
@@ -563,7 +563,7 @@
         "versionName": "1.83.8-dev"
       },
       {
-        "added": 347158862000,
+        "added": 1647528015000,
         "apkName": "io.gitjournal.gitjournal.dev_3522.apk",
         "hash": "c182a6ee2f9ec7284091ed7b2c09a50bd339606ab8c29e2db7e3316b38af7565",
         "hashType": "sha256",

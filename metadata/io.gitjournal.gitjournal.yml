@@ -5,10 +5,11 @@ AuthorName: Vishesh Handa <vhanda@gitjournal.io>
 WebSite: https://gitjournal.io/
 SourceCode: https://github.com/GitJournal/GitJournal
 IssueTracker: https://github.com/GitJournal/GitJournal/issues
+
 Name: GitJournal
 Summary: Mobile First Note Taking integrated with Git
 Description: |
     Mobile First Note Taking integrated with Git
+
 AutoUpdateMode: None
 UpdateCheckMode: None
-CurrentVersionCode: 3526
