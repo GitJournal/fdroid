@@ -7,6 +7,7 @@
 set -eu
 
 update_dev_build() {
+  set -eu
   echo "Updating dev build"
 
   latestVersionCode=$(ls repo/io.gitjournal.gitjournal.dev_*.apk | sed -e 's/^repo\/io.gitjournal.gitjournal.dev_//' | sed -e 's/.apk//' | sort | tail -n 1)
@@ -24,6 +25,9 @@ update_dev_build() {
 }
 
 update_build() {
+  set -eu
+  file ./apb
+  ls ./apb
   echo "Updating build"
 
   latestVersionCode=$(./apb -p io.gitjournal.gitjournal trackInfo p | jq -r '.versionCodes | .[0]')
