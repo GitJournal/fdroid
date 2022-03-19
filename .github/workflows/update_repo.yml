@@ -58,7 +58,7 @@ jobs:
           repository: "GitJournal/apb"
           latest: true
           filename: apk-linux-x64
-          out-file-path: /usr/bin/apb
+          out-file-path: ./apb
 
       - name: Download apks
         run: ./fdroid-updator

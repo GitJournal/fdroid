@@ -26,7 +26,7 @@ update_dev_build() {
 update_build() {
   echo "Updating build"
 
-  latestVersionCode=$(apb -p io.gitjournal.gitjournal trackInfo p | jq -r '.versionCodes | .[0]')
+  latestVersionCode=$(./apb -p io.gitjournal.gitjournal trackInfo p | jq -r '.versionCodes | .[0]')
   echo "Latest Version Code: $latestVersionCode"
 
   versionCode=$(grep CurrentVersionCode metadata/io.gitjournal.gitjournal.yml | awk '{ print $2 }')
