@@ -52,14 +52,6 @@ jobs:
       - name: Install fdroid-updator
         run: tar -xf *.tar.gz --verbose
 
-      - name: Download Android Publisher CLI
-        uses: robinraju/release-downloader@v1.2
-        with:
-          repository: "GitJournal/apb"
-          latest: true
-          filename: apk-linux-x64
-          out-file-path: ./apb
-
       - name: Download apks
         run: ./fdroid-updator
         env:

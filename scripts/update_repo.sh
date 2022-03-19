@@ -25,9 +25,8 @@ update_dev_build() {
 }
 
 update_build() {
-  set -eu
-  file ./apb
-  ls ./apb
+  wget https://github.com/GitJournal/apb/releases/download/v0.1/apb-linux-x64 -O ./apb
+  chmod +x ./apb
   echo "Updating build"
 
   latestVersionCode=$(./apb -p io.gitjournal.gitjournal trackInfo p | jq -r '.versionCodes | .[0]')
