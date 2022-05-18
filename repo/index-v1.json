@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1652747762000,
+    "timestamp": 1652833906000,
     "version": 20001,
     "maxage": 7,
     "name": "GitJournal",
@@ -29,7 +29,7 @@
       "added": 1647528015000,
       "icon": "io.gitjournal.gitjournal.3550.png",
       "packageName": "io.gitjournal.gitjournal",
-      "lastUpdated": 1652747702000
+      "lastUpdated": 1652747772000
     },
     {
       "authorName": "Vishesh Handa <vhanda@gitjournal.io>",
@@ -47,13 +47,13 @@
       "added": 1647528015000,
       "icon": "io.gitjournal.gitjournal.dev.3550.png",
       "packageName": "io.gitjournal.gitjournal.dev",
-      "lastUpdated": 1652747702000
+      "lastUpdated": 1652747772000
     }
   ],
   "packages": {
     "io.gitjournal.gitjournal": [
       {
-        "added": 1652747693000,
+        "added": 1652747772000,
         "apkName": "io.gitjournal.gitjournal_3550.apk",
         "hash": "882f093acee22911aca8cd7f6372fcc09aeb12238470361a9ec551c3ad1f6ec6",
         "hashType": "sha256",
@@ -109,7 +109,7 @@
         "versionName": "1.84.0"
       },
       {
-        "added": 1652747697000,
+        "added": 1652747772000,
         "apkName": "io.gitjournal.gitjournal_3549.apk",
         "hash": "4c7d10250759594e3030a510aee11f44f81e7143c2b93526c03325ee323357b9",
         "hashType": "sha256",
@@ -165,7 +165,7 @@
         "versionName": "1.84.0"
       },
       {
-        "added": 1652747702000,
+        "added": 1652747772000,
         "apkName": "io.gitjournal.gitjournal_3548.apk",
         "hash": "f9dc61501d4ee8c358f66f417c29fa516c5c35e76897a25387a44ccf12ba0ca3",
         "hashType": "sha256",
@@ -1155,7 +1155,7 @@
     ],
     "io.gitjournal.gitjournal.dev": [
       {
-        "added": 1652747693000,
+        "added": 1652747772000,
         "apkName": "io.gitjournal.gitjournal.dev_3550.apk",
         "hash": "a71fcf65813ac527bce48e14c27226737e2748eb0641891257b8c460700883fe",
         "hashType": "sha256",
@@ -1211,7 +1211,7 @@
         "versionName": "1.84.0-dev"
       },
       {
-        "added": 1652747697000,
+        "added": 1652747772000,
         "apkName": "io.gitjournal.gitjournal.dev_3549.apk",
         "hash": "c422b8b06d4a1804ce99dcec54a21b8bdd44d6dbf9ec5bbdb21cc67e45c24636",
         "hashType": "sha256",
@@ -1267,7 +1267,7 @@
         "versionName": "1.84.0-dev"
       },
       {
-        "added": 1652747702000,
+        "added": 1652747772000,
         "apkName": "io.gitjournal.gitjournal.dev_3548.apk",
         "hash": "d3aa96e5f9672b6c075a32c70fd7721cefc35dc8e77d25a26679ffb3f3f2624a",
         "hashType": "sha256",
