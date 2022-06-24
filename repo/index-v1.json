@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1655944419000,
+    "timestamp": 1656031148000,
     "version": 20001,
     "maxage": 7,
     "name": "GitJournal",
@@ -29,7 +29,7 @@
       "added": 1647528015000,
       "icon": "io.gitjournal.gitjournal.3577.png",
       "packageName": "io.gitjournal.gitjournal",
-      "lastUpdated": 1655944309000
+      "lastUpdated": 1655944425000
     },
     {
       "authorName": "Vishesh Handa <vhanda@gitjournal.io>",
@@ -47,13 +47,13 @@
       "added": 1647528015000,
       "icon": "io.gitjournal.gitjournal.dev.3577.png",
       "packageName": "io.gitjournal.gitjournal.dev",
-      "lastUpdated": 1655944309000
+      "lastUpdated": 1655944425000
     }
   ],
   "packages": {
     "io.gitjournal.gitjournal": [
       {
-        "added": 1655944309000,
+        "added": 1655944425000,
         "apkName": "io.gitjournal.gitjournal_3577.apk",
         "hash": "3075a2f22ecad061f7ac565cef0b644542133ba34f007720de9e3d8a7e70f1d7",
         "hashType": "sha256",
@@ -1995,7 +1995,7 @@
     ],
     "io.gitjournal.gitjournal.dev": [
       {
-        "added": 1655944309000,
+        "added": 1655944425000,
         "apkName": "io.gitjournal.gitjournal.dev_3577.apk",
         "hash": "8f05c335b9fb90c89a7c7e2f02f2109cab9634f89706df008027c761f5809ca3",
         "hashType": "sha256",
