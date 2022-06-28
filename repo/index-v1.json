@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1656450528000,
+    "timestamp": 1656457893000,
     "version": 20001,
     "maxage": 7,
     "name": "GitJournal",
@@ -27,16 +27,16 @@
       "summary": "Mobile First Note Taking integrated with Git",
       "webSite": "https://gitjournal.io/",
       "added": 1647528015000,
-      "icon": "io.gitjournal.gitjournal.3601.png",
+      "icon": "io.gitjournal.gitjournal.3608.png",
       "packageName": "io.gitjournal.gitjournal",
-      "lastUpdated": 1656449299000
+      "lastUpdated": 1656457774000
     },
     {
       "authorName": "Vishesh Handa <vhanda@gitjournal.io>",
       "categories": [
         "Writing"
       ],
-      "suggestedVersionCode": "3601",
+      "suggestedVersionCode": "3608",
       "description": "This is the development version. Please use at your own risk.\n\nMobile First Note Taking integrated with Git\n",
       "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
       "license": "AGPL-3.0-or-later",
@@ -45,13 +45,69 @@
       "summary": "Mobile First Note Taking integrated with Git",
       "webSite": "https://gitjournal.io/",
       "added": 1647528015000,
-      "icon": "io.gitjournal.gitjournal.dev.3601.png",
+      "icon": "io.gitjournal.gitjournal.dev.3608.png",
       "packageName": "io.gitjournal.gitjournal.dev",
-      "lastUpdated": 1656449299000
+      "lastUpdated": 1656457774000
     }
   ],
   "packages": {
     "io.gitjournal.gitjournal": [
+      {
+        "added": 1656457774000,
+        "apkName": "io.gitjournal.gitjournal_3608.apk",
+        "hash": "03dfabf64d74617b68541c8fab8e2820963c7dca84ee1c94e67536fc85fb2f5b",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "io.gitjournal.gitjournal",
+        "sig": "55759bc801dcf3944d019152cd10eb7d",
+        "signer": "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70",
+        "size": 26818598,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 3608,
+        "versionName": "1.85.1"
+      },
       {
         "added": 1656449299000,
         "apkName": "io.gitjournal.gitjournal_3601.apk",
@@ -2274,6 +2330,62 @@
       }
     ],
     "io.gitjournal.gitjournal.dev": [
+      {
+        "added": 1656457774000,
+        "apkName": "io.gitjournal.gitjournal.dev_3608.apk",
+        "hash": "9befc33218e9524dfbe486c80c4230303d1b3d9812763a8db33cb7d82e021093",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "io.gitjournal.gitjournal.dev",
+        "sig": "55759bc801dcf3944d019152cd10eb7d",
+        "signer": "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70",
+        "size": 26818609,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 3608,
+        "versionName": "1.85.1-dev"
+      },
       {
         "added": 1656449299000,
         "apkName": "io.gitjournal.gitjournal.dev_3601.apk",
