@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1656981490000,
+    "timestamp": 1657068243000,
     "version": 20001,
     "maxage": 7,
     "name": "GitJournal",
@@ -18,7 +18,7 @@
       "categories": [
         "Writing"
       ],
-      "suggestedVersionCode": "3575",
+      "suggestedVersionCode": "3617",
       "description": "Mobile First Note Taking integrated with Git\n",
       "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
       "license": "AGPL-3.0-or-later",
