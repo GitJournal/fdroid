@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1662043206000,
+    "timestamp": 1662079402000,
     "version": 20001,
     "maxage": 7,
     "name": "GitJournal",
@@ -27,16 +27,16 @@
       "summary": "Mobile First Note Taking integrated with Git",
       "webSite": "https://gitjournal.io/",
       "added": 1647528015000,
-      "icon": "io.gitjournal.gitjournal.3622.png",
+      "icon": "io.gitjournal.gitjournal.3623.png",
       "packageName": "io.gitjournal.gitjournal",
-      "lastUpdated": 1661474686000
+      "lastUpdated": 1662079230000
     },
     {
       "authorName": "Vishesh Handa <vhanda@gitjournal.io>",
       "categories": [
         "Writing"
       ],
-      "suggestedVersionCode": "3622",
+      "suggestedVersionCode": "3623",
       "description": "This is the development version. Please use at your own risk.\n\nMobile First Note Taking integrated with Git\n",
       "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
       "license": "AGPL-3.0-or-later",
@@ -45,13 +45,69 @@
       "summary": "Mobile First Note Taking integrated with Git",
       "webSite": "https://gitjournal.io/",
       "added": 1647528015000,
-      "icon": "io.gitjournal.gitjournal.dev.3622.png",
+      "icon": "io.gitjournal.gitjournal.dev.3623.png",
       "packageName": "io.gitjournal.gitjournal.dev",
-      "lastUpdated": 1661474686000
+      "lastUpdated": 1662079230000
     }
   ],
   "packages": {
     "io.gitjournal.gitjournal": [
+      {
+        "added": 1662079230000,
+        "apkName": "io.gitjournal.gitjournal_3623.apk",
+        "hash": "f070ef45e4497486185e24d7ea5470be2aa8b359e0588179d322578109bfdf39",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "io.gitjournal.gitjournal",
+        "sig": "55759bc801dcf3944d019152cd10eb7d",
+        "signer": "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70",
+        "size": 26816709,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 3623,
+        "versionName": "1.85.2"
+      },
       {
         "added": 1661474686000,
         "apkName": "io.gitjournal.gitjournal_3622.apk",
@@ -2722,6 +2778,62 @@
       }
     ],
     "io.gitjournal.gitjournal.dev": [
+      {
+        "added": 1662079230000,
+        "apkName": "io.gitjournal.gitjournal.dev_3623.apk",
+        "hash": "cc598b3f0ef7c0b4ceebb1f4c52a2ee28d1b5d089d110f25f2f26cd2614e3ad3",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "io.gitjournal.gitjournal.dev",
+        "sig": "55759bc801dcf3944d019152cd10eb7d",
+        "signer": "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70",
+        "size": 26816722,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 3623,
+        "versionName": "1.85.2-dev"
+      },
       {
         "added": 1661474686000,
         "apkName": "io.gitjournal.gitjournal.dev_3622.apk",
