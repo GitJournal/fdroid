@@ -1,0 +1,5275 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "GitJournal"
+    },
+    "description": {
+      "en-US": "This is a repository of GitJournal to be used with F-Droid."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/fdroid-icon.png",
+        "sha256": "6e11bd53c0d8b1ed3028009dc6f388d39f6113d835e915751e3c6bfb8fc107bc",
+        "size": 1505
+      }
+    },
+    "address": "https://gitjournal.io/fdroid/repo",
+    "timestamp": 1702487800000
+  },
+  "packages": {
+    "io.gitjournal.gitjournal": {
+      "metadata": {
+        "added": 1647528015000,
+        "categories": [
+          "Writing"
+        ],
+        "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
+        "lastUpdated": 1702487710000,
+        "license": "AGPL-3.0-or-later",
+        "sourceCode": "https://github.com/GitJournal/GitJournal",
+        "webSite": "https://gitjournal.io/",
+        "authorName": "Vishesh Handa <vhanda@gitjournal.io>",
+        "name": {
+          "en-US": "GitJournal"
+        },
+        "summary": {
+          "en-US": "Mobile First Note Taking integrated with Git"
+        },
+        "description": {
+          "en-US": "Mobile First Note Taking integrated with Git\n"
+        },
+        "preferredSigner": "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+      },
+      "versions": {
+        "d2a8babe8c3cedd425ed73995b6c41e9a561117e302a2bd77b62c733ec4ba02d": {
+          "added": 1702487639000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3760.apk",
+            "sha256": "d2a8babe8c3cedd425ed73995b6c41e9a561117e302a2bd77b62c733ec4ba02d",
+            "size": 35484681
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3760,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "673f400cf39a6f567a6a11ae0a38746853ce637ec28c856e6bf92bab63c63d48": {
+          "added": 1702487644000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3759.apk",
+            "sha256": "673f400cf39a6f567a6a11ae0a38746853ce637ec28c856e6bf92bab63c63d48",
+            "size": 29406753
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3759,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "4ee91e63988ed020e97abc15f77ec9bffacfc3dc09b46c4232d8c8975d827988": {
+          "added": 1702487648000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3758.apk",
+            "sha256": "4ee91e63988ed020e97abc15f77ec9bffacfc3dc09b46c4232d8c8975d827988",
+            "size": 29406454
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3758,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "d8e1cc6b8af9b5e0c431512f0c46fff2862a54f265899f0a6c506b36a6856bb8": {
+          "added": 1702487652000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3757.apk",
+            "sha256": "d8e1cc6b8af9b5e0c431512f0c46fff2862a54f265899f0a6c506b36a6856bb8",
+            "size": 29409378
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3757,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "c50e6e554f3c362e9a2f12505613d93df788732dfad55df49ec36d0af73bf2e4": {
+          "added": 1702487656000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3755.apk",
+            "sha256": "c50e6e554f3c362e9a2f12505613d93df788732dfad55df49ec36d0af73bf2e4",
+            "size": 29405395
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3755,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "ca6624e142d16dc244f4ab5ab9fe212cbc356c4108e1b66ef7defa43f4cb9ca3": {
+          "added": 1702487660000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3752.apk",
+            "sha256": "ca6624e142d16dc244f4ab5ab9fe212cbc356c4108e1b66ef7defa43f4cb9ca3",
+            "size": 29408075
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3752,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "152112f4b71669a82ad9cdb6b6877f173e7a304674c8bcca97f4ceed7dfe56ec": {
+          "added": 1702487664000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3751.apk",
+            "sha256": "152112f4b71669a82ad9cdb6b6877f173e7a304674c8bcca97f4ceed7dfe56ec",
+            "size": 29408007
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3751,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "f74f8ffce7251d4a8425466e366c0e0071c8902a4428e4e7ad74041de44aac29": {
+          "added": 1702487669000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3750.apk",
+            "sha256": "f74f8ffce7251d4a8425466e366c0e0071c8902a4428e4e7ad74041de44aac29",
+            "size": 29408427
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3750,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "f81fc8c588fed7c0427baff214cfed174fc208cd58edb84df1e4941594a85d40": {
+          "added": 1702487673000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3749.apk",
+            "sha256": "f81fc8c588fed7c0427baff214cfed174fc208cd58edb84df1e4941594a85d40",
+            "size": 29409196
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3749,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "6f814934c5d9f4a230dab99273c0073abb01999f9ded13b1a45966bf2bda9338": {
+          "added": 1702487677000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3748.apk",
+            "sha256": "6f814934c5d9f4a230dab99273c0073abb01999f9ded13b1a45966bf2bda9338",
+            "size": 29410832
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3748,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "540a71aa5a95d59cc8709673d81b9bcd63ffbfba81631a6f58b835a6f244d7c5": {
+          "added": 1702487682000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3746.apk",
+            "sha256": "540a71aa5a95d59cc8709673d81b9bcd63ffbfba81631a6f58b835a6f244d7c5",
+            "size": 29410641
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3746,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "6d94c103254a79fc4b6f97a6f9fe0641548a40a811ab6ea418d9d53f43c5f6bf": {
+          "added": 1702487686000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3744.apk",
+            "sha256": "6d94c103254a79fc4b6f97a6f9fe0641548a40a811ab6ea418d9d53f43c5f6bf",
+            "size": 29098630
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3744,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "d52872c4fc6ec93bf03adaef4bac1b1212ed2959674ee3b5112d4b4df1cdddfe": {
+          "added": 1702487690000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3742.apk",
+            "sha256": "d52872c4fc6ec93bf03adaef4bac1b1212ed2959674ee3b5112d4b4df1cdddfe",
+            "size": 29099151
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3742,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "6d0be47aa01ffe89e88cdd6988598b7e9b28e894235c8559c3a78dc1208df94d": {
+          "added": 1702487694000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3741.apk",
+            "sha256": "6d0be47aa01ffe89e88cdd6988598b7e9b28e894235c8559c3a78dc1208df94d",
+            "size": 29099148
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3741,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "1b16db30df468e99dfa7214d8c265fa0a9900e29ab224de89a1d3807ad562fe7": {
+          "added": 1702487698000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3740.apk",
+            "sha256": "1b16db30df468e99dfa7214d8c265fa0a9900e29ab224de89a1d3807ad562fe7",
+            "size": 29099156
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0",
+            "versionCode": 3740,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "15106178d0e335e2b1f7e5a9bf4f0984c30d09a33ee12c65820872be7fc62adc": {
+          "added": 1702487702000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3739.apk",
+            "sha256": "15106178d0e335e2b1f7e5a9bf4f0984c30d09a33ee12c65820872be7fc62adc",
+            "size": 29099155
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.86.2",
+            "versionCode": 3739,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "9154f936f9adc936a0bec1955173e672650b285e8fe15e5e0e639216e7377035": {
+          "added": 1702487706000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3738.apk",
+            "sha256": "9154f936f9adc936a0bec1955173e672650b285e8fe15e5e0e639216e7377035",
+            "size": 29099155
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.86.2",
+            "versionCode": 3738,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "3c9f63748100e8648418861826e92004abf4e88c88eb40c0f993a2ba582dc8a2": {
+          "added": 1702487710000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3735.apk",
+            "sha256": "3c9f63748100e8648418861826e92004abf4e88c88eb40c0f993a2ba582dc8a2",
+            "size": 29099159
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.86.2",
+            "versionCode": 3735,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "f070ef45e4497486185e24d7ea5470be2aa8b359e0588179d322578109bfdf39": {
+          "added": 1662079408000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3623.apk",
+            "sha256": "f070ef45e4497486185e24d7ea5470be2aa8b359e0588179d322578109bfdf39",
+            "size": 26816709
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.2",
+            "versionCode": 3623,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "0f3d18f49621f91b92b2d94bdf88f2323394775656d18f7097e44baaea070839": {
+          "added": 1661474686000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3622.apk",
+            "sha256": "0f3d18f49621f91b92b2d94bdf88f2323394775656d18f7097e44baaea070839",
+            "size": 26816708
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.2",
+            "versionCode": 3622,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "8a12ab5f322381b5fe56ec43ee96c746a108ae1890ed5e72a760af9a1f972bdc": {
+          "added": 1661421502000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3621.apk",
+            "sha256": "8a12ab5f322381b5fe56ec43ee96c746a108ae1890ed5e72a760af9a1f972bdc",
+            "size": 26816713
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.2",
+            "versionCode": 3621,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "f16df6a04555174d478454d8c6223cf9dba082fad807eb36d298cc9b734f76f8": {
+          "added": 1658450793000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3620.apk",
+            "sha256": "f16df6a04555174d478454d8c6223cf9dba082fad807eb36d298cc9b734f76f8",
+            "size": 26816567
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.2",
+            "versionCode": 3620,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "fcae7c02229d3b009ac2693d2e04b66965376ce44b6715a5c8a99631b8f13a2e": {
+          "added": 1656549432000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3617.apk",
+            "sha256": "fcae7c02229d3b009ac2693d2e04b66965376ce44b6715a5c8a99631b8f13a2e",
+            "size": 26812299
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.2",
+            "versionCode": 3617,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "cfdde1348be80d28ab7489c3b33431f7c451e1411876a23568a4adb54232ae73": {
+          "added": 1656503615000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3615.apk",
+            "sha256": "cfdde1348be80d28ab7489c3b33431f7c451e1411876a23568a4adb54232ae73",
+            "size": 26812300
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.1",
+            "versionCode": 3615,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "c134fba5cf4588be307ae525c1cbe861f733168800c94f70e34e4cb28441bab1": {
+          "added": 1656497893000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3612.apk",
+            "sha256": "c134fba5cf4588be307ae525c1cbe861f733168800c94f70e34e4cb28441bab1",
+            "size": 26818881
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.1",
+            "versionCode": 3612,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "324f83db82a74b5922606cd5ec16a24f914cb0ebfa396e934582db5be5198098": {
+          "added": 1656463061000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3609.apk",
+            "sha256": "324f83db82a74b5922606cd5ec16a24f914cb0ebfa396e934582db5be5198098",
+            "size": 26818598
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.1",
+            "versionCode": 3609,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "03dfabf64d74617b68541c8fab8e2820963c7dca84ee1c94e67536fc85fb2f5b": {
+          "added": 1656457899000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3608.apk",
+            "sha256": "03dfabf64d74617b68541c8fab8e2820963c7dca84ee1c94e67536fc85fb2f5b",
+            "size": 26818598
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.1",
+            "versionCode": 3608,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "b5326cf8507b051ea53c1bc917152f9f63d35ca68dd6c7879b2f535f0d7d4ebb": {
+          "added": 1656449299000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3601.apk",
+            "sha256": "b5326cf8507b051ea53c1bc917152f9f63d35ca68dd6c7879b2f535f0d7d4ebb",
+            "size": 26818604
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.1",
+            "versionCode": 3601,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "dd385b028df063ae814f83745e279f9bd5c60d50c0bc562cc645285a5fb3fc9b": {
+          "added": 1656440326000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3599.apk",
+            "sha256": "dd385b028df063ae814f83745e279f9bd5c60d50c0bc562cc645285a5fb3fc9b",
+            "size": 26818608
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.0",
+            "versionCode": 3599,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "35e6504cca02790d1ef5818ea382caf7bbe3b1cccc6946785f74a6906a3a5808": {
+          "added": 1656376859000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3598.apk",
+            "sha256": "35e6504cca02790d1ef5818ea382caf7bbe3b1cccc6946785f74a6906a3a5808",
+            "size": 26818612
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.0",
+            "versionCode": 3598,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "30d57898171e5f23bf5f29a7daa107d6f1772547b94b163dc90a09e9ba0fdf83": {
+          "added": 1656204194000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3580.apk",
+            "sha256": "30d57898171e5f23bf5f29a7daa107d6f1772547b94b163dc90a09e9ba0fdf83",
+            "size": 26795978
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.0",
+            "versionCode": 3580,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "733e01b6b4c8a3a7769fadf613ac8777b5245a59fc8d96984ce1f2316fd6c346": {
+          "added": 1656117567000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3578.apk",
+            "sha256": "733e01b6b4c8a3a7769fadf613ac8777b5245a59fc8d96984ce1f2316fd6c346",
+            "size": 26946557
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.0",
+            "versionCode": 3578,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "3075a2f22ecad061f7ac565cef0b644542133ba34f007720de9e3d8a7e70f1d7": {
+          "added": 1655944425000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3577.apk",
+            "sha256": "3075a2f22ecad061f7ac565cef0b644542133ba34f007720de9e3d8a7e70f1d7",
+            "size": 26945650
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.0",
+            "versionCode": 3577,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "16f7707c3efec61b1f9cfd44e1a823424d71df1ae30cdb2b1a7d9343432183ab": {
+          "added": 1655939319000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3576.apk",
+            "sha256": "16f7707c3efec61b1f9cfd44e1a823424d71df1ae30cdb2b1a7d9343432183ab",
+            "size": 26945645
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.0",
+            "versionCode": 3576,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "6d940871912489fccdd6e58d844f97afae1710f5c42fd5ed77b99f88b44c6fdb": {
+          "added": 1655936517000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3575.apk",
+            "sha256": "6d940871912489fccdd6e58d844f97afae1710f5c42fd5ed77b99f88b44c6fdb",
+            "size": 26945662
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.0",
+            "versionCode": 3575,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "9103367f6826189f0fb8e34e4099d261163a444caa2c922b446be975637310fb": {
+          "added": 1655936517000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3574.apk",
+            "sha256": "9103367f6826189f0fb8e34e4099d261163a444caa2c922b446be975637310fb",
+            "size": 26945653
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.0",
+            "versionCode": 3574,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "c96181bebcff090fd2a1d4f5586bd629629d784f5486802e58d4aed6faae988c": {
+          "added": 1655897762000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3570.apk",
+            "sha256": "c96181bebcff090fd2a1d4f5586bd629629d784f5486802e58d4aed6faae988c",
+            "size": 26944010
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.0",
+            "versionCode": 3570,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "f6db70122934d1518bb8f32afc9926a7eccb96d009f2026c33b740e3f8ee25f3": {
+          "added": 1655897762000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3569.apk",
+            "sha256": "f6db70122934d1518bb8f32afc9926a7eccb96d009f2026c33b740e3f8ee25f3",
+            "size": 26943214
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.0",
+            "versionCode": 3569,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "73d56508939f8b32c7054d3bb401c49bc5306fc4a88eef2513386e4f2b9e98f2": {
+          "added": 1655892641000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3566.apk",
+            "sha256": "73d56508939f8b32c7054d3bb401c49bc5306fc4a88eef2513386e4f2b9e98f2",
+            "size": 26938097
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.1",
+            "versionCode": 3566,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "2a16bf97a9c68253588df782ce64922f73bf02990ad7d8f801880231be81cef9": {
+          "added": 1655167438000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3564.apk",
+            "sha256": "2a16bf97a9c68253588df782ce64922f73bf02990ad7d8f801880231be81cef9",
+            "size": 26929806
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.1",
+            "versionCode": 3564,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "251c09f34304cc6b1fec0dd657068da4ab324a5e5908503622279a230b395e5d": {
+          "added": 1655080863000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3563.apk",
+            "sha256": "251c09f34304cc6b1fec0dd657068da4ab324a5e5908503622279a230b395e5d",
+            "size": 26929808
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.1",
+            "versionCode": 3563,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "ea9e2f8c191b21ed611d49d5a5e1a7ad8647d6d91b0a944c6c5b9fc2e3a268fa": {
+          "added": 1654907907000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3562.apk",
+            "sha256": "ea9e2f8c191b21ed611d49d5a5e1a7ad8647d6d91b0a944c6c5b9fc2e3a268fa",
+            "size": 26929805
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.1",
+            "versionCode": 3562,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "ad558dcf90e6abec7de2828c32f246c6fc92af37a33a40db519802f86151fd76": {
+          "added": 1654860226000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3560.apk",
+            "sha256": "ad558dcf90e6abec7de2828c32f246c6fc92af37a33a40db519802f86151fd76",
+            "size": 26929791
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.1",
+            "versionCode": 3560,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "386c24ecf2490fd68e8ff8c17d8efd7be5df4c873538b9edb78fb11488d0c84d": {
+          "added": 1654860226000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3559.apk",
+            "sha256": "386c24ecf2490fd68e8ff8c17d8efd7be5df4c873538b9edb78fb11488d0c84d",
+            "size": 26929517
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.1",
+            "versionCode": 3559,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "44e42844d6f6b4f4848386566a4635a679412652c5eceff056d37f17b1414feb": {
+          "added": 1654648754000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3557.apk",
+            "sha256": "44e42844d6f6b4f4848386566a4635a679412652c5eceff056d37f17b1414feb",
+            "size": 26924565
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.1",
+            "versionCode": 3557,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "03e13b7a295c524718516e5106766b59a575f87da866b2b8bc45978d48032106": {
+          "added": 1654561793000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3553.apk",
+            "sha256": "03e13b7a295c524718516e5106766b59a575f87da866b2b8bc45978d48032106",
+            "size": 26695208
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.1",
+            "versionCode": 3553,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "c8022c6d42c4a71a602f617322fa51ab0f098cb06d8976fafc4927050f3be130": {
+          "added": 1654389706000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3552.apk",
+            "sha256": "c8022c6d42c4a71a602f617322fa51ab0f098cb06d8976fafc4927050f3be130",
+            "size": 26670888
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.1",
+            "versionCode": 3552,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "882f093acee22911aca8cd7f6372fcc09aeb12238470361a9ec551c3ad1f6ec6": {
+          "added": 1652747772000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3550.apk",
+            "sha256": "882f093acee22911aca8cd7f6372fcc09aeb12238470361a9ec551c3ad1f6ec6",
+            "size": 26670260
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.0",
+            "versionCode": 3550,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "4c7d10250759594e3030a510aee11f44f81e7143c2b93526c03325ee323357b9": {
+          "added": 1652747772000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3549.apk",
+            "sha256": "4c7d10250759594e3030a510aee11f44f81e7143c2b93526c03325ee323357b9",
+            "size": 26659519
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.0",
+            "versionCode": 3549,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "f9dc61501d4ee8c358f66f417c29fa516c5c35e76897a25387a44ccf12ba0ca3": {
+          "added": 1652747772000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3548.apk",
+            "sha256": "f9dc61501d4ee8c358f66f417c29fa516c5c35e76897a25387a44ccf12ba0ca3",
+            "size": 26659555
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.0",
+            "versionCode": 3548,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "4ce0a4269de7cf79d435f99667d302a9dfd685478001d08566cefc0702b134d3": {
+          "added": 1650846734000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3547.apk",
+            "sha256": "4ce0a4269de7cf79d435f99667d302a9dfd685478001d08566cefc0702b134d3",
+            "size": 26656113
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.0",
+            "versionCode": 3547,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "639dd175c8c77785350d187455647363b9ad3d976740946f9543daae25d59c65": {
+          "added": 1650674080000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3545.apk",
+            "sha256": "639dd175c8c77785350d187455647363b9ad3d976740946f9543daae25d59c65",
+            "size": 26647944
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.84.0",
+            "versionCode": 3545,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "4b6ac327a3198efb205b14b8dbbb22746f147880a8934613164284e56f4cb0d7": {
+          "added": 1648686747000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3543.apk",
+            "sha256": "4b6ac327a3198efb205b14b8dbbb22746f147880a8934613164284e56f4cb0d7",
+            "size": 26423317
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.11",
+            "versionCode": 3543,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "396b2edaf6a08c25722e01e15082556853fceefd1a608f855d50bd8adc1bc723": {
+          "added": 1648686747000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3542.apk",
+            "sha256": "396b2edaf6a08c25722e01e15082556853fceefd1a608f855d50bd8adc1bc723",
+            "size": 26422467
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.11",
+            "versionCode": 3542,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "15336f9668602b04441f1bf52245219c11a7543aedd3573dfe58cf59365394af": {
+          "added": 1648254678000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3541.apk",
+            "sha256": "15336f9668602b04441f1bf52245219c11a7543aedd3573dfe58cf59365394af",
+            "size": 26422579
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.11",
+            "versionCode": 3541,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "1a59dd0ff1762ec9c93d9eae396506812cf636a419357b357f63f8f6949a3088": {
+          "added": 1648254678000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3540.apk",
+            "sha256": "1a59dd0ff1762ec9c93d9eae396506812cf636a419357b357f63f8f6949a3088",
+            "size": 26422576
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.11",
+            "versionCode": 3540,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "e9576fa675d14ee2373c16c6c17923d6693901c6c8a344c6815922bcd80da485": {
+          "added": 1648254678000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3538.apk",
+            "sha256": "e9576fa675d14ee2373c16c6c17923d6693901c6c8a344c6815922bcd80da485",
+            "size": 26422580
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.10",
+            "versionCode": 3538,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "18599d2e50e9c8cba7686e7a0489fd630758c703e02dbc7fbc0b93d323b0b8cd": {
+          "added": 1648254678000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3536.apk",
+            "sha256": "18599d2e50e9c8cba7686e7a0489fd630758c703e02dbc7fbc0b93d323b0b8cd",
+            "size": 26424774
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.10",
+            "versionCode": 3536,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "24424e3bf463ef774347eecf694e8c8efad93bb9151aff7d6475479286ff9fa4": {
+          "added": 1648168179000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3535.apk",
+            "sha256": "24424e3bf463ef774347eecf694e8c8efad93bb9151aff7d6475479286ff9fa4",
+            "size": 26424777
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.10",
+            "versionCode": 3535,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "7bc469b670c23410ed734d619796ecc4d6fd53a2e32d1b405959ddd7372d1d1c": {
+          "added": 1648005503000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3534.apk",
+            "sha256": "7bc469b670c23410ed734d619796ecc4d6fd53a2e32d1b405959ddd7372d1d1c",
+            "size": 26424563
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.10",
+            "versionCode": 3534,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "0c2a710f94c8a4f8a9b047976c531e12142d775ec61730624a44899fc21a30b3": {
+          "added": 1647649817000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3533.apk",
+            "sha256": "0c2a710f94c8a4f8a9b047976c531e12142d775ec61730624a44899fc21a30b3",
+            "size": 26424554
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.10",
+            "versionCode": 3533,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "1331b62a777ef64585bc2a1500604922c54cc47d44889779b9ae30004faf7d17": {
+          "added": 1647649817000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3531.apk",
+            "sha256": "1331b62a777ef64585bc2a1500604922c54cc47d44889779b9ae30004faf7d17",
+            "size": 26424655
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.9",
+            "versionCode": 3531,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "c18ad205c02d45196f6192c636d58f179fcd8388c1ed6eee2b3d462ec35c2df5": {
+          "added": 1647528015000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3527.apk",
+            "sha256": "c18ad205c02d45196f6192c636d58f179fcd8388c1ed6eee2b3d462ec35c2df5",
+            "size": 26426278
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.9",
+            "versionCode": 3527,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "b62f804e347b42c81a53336576f404e8cd02d9b8d56b78dee87b812c9172fcb9": {
+          "added": 1647528015000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3526.apk",
+            "sha256": "b62f804e347b42c81a53336576f404e8cd02d9b8d56b78dee87b812c9172fcb9",
+            "size": 26424729
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.9",
+            "versionCode": 3526,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "1eee8e27745eae709c3b2811a7a694af88c5d8a25ad023744a805f036e6a588e": {
+          "added": 1647528015000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3524.apk",
+            "sha256": "1eee8e27745eae709c3b2811a7a694af88c5d8a25ad023744a805f036e6a588e",
+            "size": 26424718
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.8",
+            "versionCode": 3524,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "07bf800f7f32ca08b7042ae1aad29e66eaba0b6446d808c970d5f4077a5b7ab6": {
+          "added": 1647528015000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3523.apk",
+            "sha256": "07bf800f7f32ca08b7042ae1aad29e66eaba0b6446d808c970d5f4077a5b7ab6",
+            "size": 26424465
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.8",
+            "versionCode": 3523,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "927fd7a11522d0b992c2775344d09402c8fe1606062e3ee4b0c6fec828f26d3e": {
+          "added": 1647528015000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3522.apk",
+            "sha256": "927fd7a11522d0b992c2775344d09402c8fe1606062e3ee4b0c6fec828f26d3e",
+            "size": 26424465
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.8",
+            "versionCode": 3522,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "7205244bb61fc86437c2f18be753176a512c41a0d0198f327f849d64ec7ca9bb": {
+          "added": 1647528015000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3406.apk",
+            "sha256": "7205244bb61fc86437c2f18be753176a512c41a0d0198f327f849d64ec7ca9bb",
+            "size": 26254164
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.83.1",
+            "versionCode": 3406,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "io.gitjournal.gitjournal.dev": {
+      "metadata": {
+        "added": 1656449299000,
+        "categories": [
+          "Writing"
+        ],
+        "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
+        "lastUpdated": 1702487710000,
+        "license": "AGPL-3.0-or-later",
+        "sourceCode": "https://github.com/GitJournal/GitJournal",
+        "webSite": "https://gitjournal.io/",
+        "authorName": "Vishesh Handa <vhanda@gitjournal.io>",
+        "name": {
+          "en-US": "GitJournal Dev"
+        },
+        "summary": {
+          "en-US": "Mobile First Note Taking integrated with Git"
+        },
+        "description": {
+          "en-US": "This is the development version. Please use at your own risk.\n\nMobile First Note Taking integrated with Git\n"
+        },
+        "preferredSigner": "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+      },
+      "versions": {
+        "d62509d50b61b97a465f39bc2b70c14af33914041e9f950ea640d2f06b7c27b7": {
+          "added": 1702487639000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3760.apk",
+            "sha256": "d62509d50b61b97a465f39bc2b70c14af33914041e9f950ea640d2f06b7c27b7",
+            "size": 35484715
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3760,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "86b773d273c64d70efc0c2520deab8ced87cba249235cae41c215f1a2df8de64": {
+          "added": 1702487644000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3759.apk",
+            "sha256": "86b773d273c64d70efc0c2520deab8ced87cba249235cae41c215f1a2df8de64",
+            "size": 29406769
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3759,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "73fb8e1c2f88beea1f7eadf717a711743dd267b6eb717b87c3210a152e042b8b": {
+          "added": 1702487648000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3758.apk",
+            "sha256": "73fb8e1c2f88beea1f7eadf717a711743dd267b6eb717b87c3210a152e042b8b",
+            "size": 29406477
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3758,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "ae55b19e4ce6be36e0f3d0bad21255b3f5aefd0fabb79ac4865ca6c38bb7b74f": {
+          "added": 1702487652000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3757.apk",
+            "sha256": "ae55b19e4ce6be36e0f3d0bad21255b3f5aefd0fabb79ac4865ca6c38bb7b74f",
+            "size": 29409409
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3757,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "bee8a09d3b70d9cf8e1772c5af52e72f38ecf29e023eba37d122bde76338c33e": {
+          "added": 1702487656000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3755.apk",
+            "sha256": "bee8a09d3b70d9cf8e1772c5af52e72f38ecf29e023eba37d122bde76338c33e",
+            "size": 29405412
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3755,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "d1a20c14c220347c9a9e701089904ae5acdd8542a75a1603aa655ef21eb8da16": {
+          "added": 1702487660000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3752.apk",
+            "sha256": "d1a20c14c220347c9a9e701089904ae5acdd8542a75a1603aa655ef21eb8da16",
+            "size": 29408098
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3752,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "f74b97cabacc8ea9d44156932c1974d5c41043c59d71b50731b23943ccb327d5": {
+          "added": 1702487664000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3751.apk",
+            "sha256": "f74b97cabacc8ea9d44156932c1974d5c41043c59d71b50731b23943ccb327d5",
+            "size": 29408028
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3751,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "bdab0d831ea7f165448131f5a95768f7edc613124db8da9869e515f06731ab9b": {
+          "added": 1702487669000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3750.apk",
+            "sha256": "bdab0d831ea7f165448131f5a95768f7edc613124db8da9869e515f06731ab9b",
+            "size": 29408457
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3750,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "025faf7ea3e9b434f4b14134ff89181cd149ce3f7318463898df72178ba0a17b": {
+          "added": 1702487673000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3749.apk",
+            "sha256": "025faf7ea3e9b434f4b14134ff89181cd149ce3f7318463898df72178ba0a17b",
+            "size": 29409214
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3749,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "1c6349844dbb72efeb2d4ed31f75c9dd9ef0bf81423b60c6a02e94d58ed65534": {
+          "added": 1702487677000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3748.apk",
+            "sha256": "1c6349844dbb72efeb2d4ed31f75c9dd9ef0bf81423b60c6a02e94d58ed65534",
+            "size": 29410849
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3748,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "38e6c894e75d89f8437ff705e375765c065c6b0fbbd531aadfecee4f16c79fc4": {
+          "added": 1702487681000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3746.apk",
+            "sha256": "38e6c894e75d89f8437ff705e375765c065c6b0fbbd531aadfecee4f16c79fc4",
+            "size": 29410645
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3746,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "0dae185aeb5cd04a033be8cbe92c580531720c44862226cc86f8d110f90e8937": {
+          "added": 1702487685000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3744.apk",
+            "sha256": "0dae185aeb5cd04a033be8cbe92c580531720c44862226cc86f8d110f90e8937",
+            "size": 29098634
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3744,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "5c09b50585b6b65a202117fe8a8f810a4a8a68ca2391a0fc05479d4be01fba60": {
+          "added": 1702487690000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3742.apk",
+            "sha256": "5c09b50585b6b65a202117fe8a8f810a4a8a68ca2391a0fc05479d4be01fba60",
+            "size": 29099166
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3742,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "6c45958e6987d65d5e9cd67689db11e6e817b92bda0b99d053cecfb9e86a6e58": {
+          "added": 1702487694000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3741.apk",
+            "sha256": "6c45958e6987d65d5e9cd67689db11e6e817b92bda0b99d053cecfb9e86a6e58",
+            "size": 29099176
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3741,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "5aea21c2f6e57a6631e069204f8533896a995ac3e862dc0d199250a6520d4a8f": {
+          "added": 1702487698000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3740.apk",
+            "sha256": "5aea21c2f6e57a6631e069204f8533896a995ac3e862dc0d199250a6520d4a8f",
+            "size": 29099165
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.87.0-dev",
+            "versionCode": 3740,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "97d5aaad6f8193b9c1c50750bf4abdc22eb123d94a20224b53debb4472184c96": {
+          "added": 1702487702000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3739.apk",
+            "sha256": "97d5aaad6f8193b9c1c50750bf4abdc22eb123d94a20224b53debb4472184c96",
+            "size": 29099168
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.86.2-dev",
+            "versionCode": 3739,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "eb46d83bd57cd874e28d1d286ed33ab6d5b89805f8c89b0bb7bd8b6e0688c843": {
+          "added": 1702487706000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3738.apk",
+            "sha256": "eb46d83bd57cd874e28d1d286ed33ab6d5b89805f8c89b0bb7bd8b6e0688c843",
+            "size": 29099161
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.86.2-dev",
+            "versionCode": 3738,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "8963fa761c7b1bb0bff1e01a8cf781667121dd40b12d1c2c7d6fb0dfa12a6054": {
+          "added": 1702487710000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3735.apk",
+            "sha256": "8963fa761c7b1bb0bff1e01a8cf781667121dd40b12d1c2c7d6fb0dfa12a6054",
+            "size": 29099161
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.86.2-dev",
+            "versionCode": 3735,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM",
+                "maxSdkVersion": 33
+              }
+            ]
+          }
+        },
+        "cc598b3f0ef7c0b4ceebb1f4c52a2ee28d1b5d089d110f25f2f26cd2614e3ad3": {
+          "added": 1662079408000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3623.apk",
+            "sha256": "cc598b3f0ef7c0b4ceebb1f4c52a2ee28d1b5d089d110f25f2f26cd2614e3ad3",
+            "size": 26816722
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.2-dev",
+            "versionCode": 3623,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "18c3ab627b1e18cfd0e8b4e88b597b2496d51c1ad34209b4e78f47cb84202091": {
+          "added": 1661474686000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3622.apk",
+            "sha256": "18c3ab627b1e18cfd0e8b4e88b597b2496d51c1ad34209b4e78f47cb84202091",
+            "size": 26816728
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.2-dev",
+            "versionCode": 3622,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "4e2491314062a6e8bebe74afd3cab8b5384dc56255d35cf1742394489642cfc7": {
+          "added": 1661421502000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3621.apk",
+            "sha256": "4e2491314062a6e8bebe74afd3cab8b5384dc56255d35cf1742394489642cfc7",
+            "size": 26816730
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.2-dev",
+            "versionCode": 3621,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "190107eea347c901e8360f798d6710d6ff8b4e083802b1d6901bc96dcd9e2de1": {
+          "added": 1658450793000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3620.apk",
+            "sha256": "190107eea347c901e8360f798d6710d6ff8b4e083802b1d6901bc96dcd9e2de1",
+            "size": 26816579
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.2-dev",
+            "versionCode": 3620,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "581c16f8d9bb8e97f2436038f90c09eac9771ab559b3272fd7b26ae13303ccae": {
+          "added": 1656549432000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3617.apk",
+            "sha256": "581c16f8d9bb8e97f2436038f90c09eac9771ab559b3272fd7b26ae13303ccae",
+            "size": 26812320
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.2-dev",
+            "versionCode": 3617,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "c4f6e08d3a2a8ca09c0a98292bc0dbcad40220bd08e97a72b1797546ca03002b": {
+          "added": 1656503615000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3615.apk",
+            "sha256": "c4f6e08d3a2a8ca09c0a98292bc0dbcad40220bd08e97a72b1797546ca03002b",
+            "size": 26812309
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.1-dev",
+            "versionCode": 3615,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "8556780cc66a8e25d188025b86319d90da2bc8badc672490e25a6ba10634360b": {
+          "added": 1656497893000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3612.apk",
+            "sha256": "8556780cc66a8e25d188025b86319d90da2bc8badc672490e25a6ba10634360b",
+            "size": 26818898
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.1-dev",
+            "versionCode": 3612,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "0dde4229c191735855b03b90ffe0b28a9bf351e441410d2d7fb1c6c37294e4ce": {
+          "added": 1656463061000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3609.apk",
+            "sha256": "0dde4229c191735855b03b90ffe0b28a9bf351e441410d2d7fb1c6c37294e4ce",
+            "size": 26818609
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.1-dev",
+            "versionCode": 3609,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "9befc33218e9524dfbe486c80c4230303d1b3d9812763a8db33cb7d82e021093": {
+          "added": 1656457899000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3608.apk",
+            "sha256": "9befc33218e9524dfbe486c80c4230303d1b3d9812763a8db33cb7d82e021093",
+            "size": 26818609
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.1-dev",
+            "versionCode": 3608,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        },
+        "718307185826b90e1b7897b8cae81af983eb3168eca3651f6115fa0d54550bfd": {
+          "added": 1656449299000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3601.apk",
+            "sha256": "718307185826b90e1b7897b8cae81af983eb3168eca3651f6115fa0d54550bfd",
+            "size": 26818613
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.85.1-dev",
+            "versionCode": 3601,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.GET_TASKS"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

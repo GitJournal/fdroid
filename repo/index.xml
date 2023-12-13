@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="7" name="GitJournal" pubkey="308204f9308202e1a00302010202041fdf5a0f300d06092a864886f70d01010b0500302d31133011060355040b130a4769744a6f75726e616c311630140603550403130d6769746a6f75726e616c2e696f301e170d3231313132393131353930365a170d3439303431363131353930365a302d31133011060355040b130a4769744a6f75726e616c311630140603550403130d6769746a6f75726e616c2e696f30820222300d06092a864886f70d01010105000382020f003082020a02820201009a7865c8efe9c8818fcb26c152b2dddb5e283d07262b9c6b08890d8aef5254804cf4719300249ec5186516c3a318df75c1b8f83cacc2f251672ef43c47810752d7063986781b4db37ae172ba6f022ad2f5ac2a3dd4d4f6c0753cac829cb67833dd44e91374e18c49043beabdc9b7f74c8664ef5f69eaba3352da409e257076b3d5de7e7cae226fef29a583042f904f0e346aded9db3df5079313598d968b01f4361865c84bb1174a7f28820756ae00f7e59185559b282048d98e9168eb014e4f3dbcba6928e45dadefb4e82e2bcf5e4665dc19c5966d8fbc28c0c50eb5cdcc3d180e43b27f874080ccbc963cfedf717807e4ee82440bcedde9a226395cb9e3932a0f568c5b8a733bf323b4e71628306bb8d56ad88226fcb53a6b202c5d6bddf19ce0a54e8f0af197ac3903296db1ad5946bd8034db031993f01261bb6ff9b872a5ade9a76f825d108e645773f445bf72246a23129fe7fee5874c0d9fff4feff2fa968ed4266f0db3f93f0cef7ff321410bebde3b03849b12836560c3fb103dbcf794d8922f3ddb1793f54f536eb170e4c7fc023320f0ba6e55ba1e809083e4ada72b4ad03975834a01ffb180af75df69b754e97540569271c63502dadbe9564f4158a384b21390c224e74be8d0d06cc0259e8c05fe9cdbf5bd622986cf09d90426efd464aac4b12494181c65e7f6f71c02dfa1c6b47b11b7dfabeafcba87f6f10203010001a321301f301d0603551d0e0416041478206114175fb33b49a2dadc947374a0836fadb3300d06092a864886f70d01010b05000382020100914462017bb119496dcceb6ea6663f85086f7a0c19bdb8efba1e4699758e2c714cd3fe8e6c96cf0e09c56fbffd710598286626680a0ed2063a61ec4c00c73a35cfe24baab04cbaac91faa6b9792cfd10e6fbe55fadb69baa0463962f9266f38017f2a10f3fb426f9ca016b87f156efd24b9cd277353c69614ab307b4e0d9bdc5daf63997fc122e7b63c26ef44a4e51aa6b3536c0e45610e79461fd33449f370b5f37b50562f442eaa4b49ebfcc91414cd65e8a0f65a876bc4fa3e744ddfcf07f0ee0b98e8a7dc12c0bad6b43c1e2b6f39fbfbe3817f45822a3aef032bb93117a57fbf1cdab08bba5f55a8cabf89f55862b670243204b56d9277281cca1f45167ae8c59579c19db682dcc6b30cf62e14a2c1732200b712a1f5bf633cbd044d87df1825e479dac2b4115e28d9ff3f36c69039c4c7b67792ec55860bc8e6f5202dfc4943c84ab67e382b7e454544ea40afa81e7d66dd242161436c167a6dc3883ea076c4da392ea59cb4237f58c8ec804f68a70653cea81dd4ff33dff965cf80a8df667387af39b9d9388e92568462f8939d5f9c7690be4a12bee9b2c6aed8a16bc65f82c7e489b826f80ca09beb22367ae9ef0a1d98f503b7853df7e1bd255897d577c889840b94e0c355e598497c7acda772926a1d278a49f26611ef1d7dd4cd35ccfe3069356f111040f14b434fa8323b5e578669cf9da9f57d9ab7f96583069" timestamp="1662511495" url="https://gitjournal.io/fdroid/repo" version="20001">
+	<repo icon="fdroid-icon.png" maxage="7" name="GitJournal" pubkey="308204f9308202e1a00302010202041fdf5a0f300d06092a864886f70d01010b0500302d31133011060355040b130a4769744a6f75726e616c311630140603550403130d6769746a6f75726e616c2e696f301e170d3231313132393131353930365a170d3439303431363131353930365a302d31133011060355040b130a4769744a6f75726e616c311630140603550403130d6769746a6f75726e616c2e696f30820222300d06092a864886f70d01010105000382020f003082020a02820201009a7865c8efe9c8818fcb26c152b2dddb5e283d07262b9c6b08890d8aef5254804cf4719300249ec5186516c3a318df75c1b8f83cacc2f251672ef43c47810752d7063986781b4db37ae172ba6f022ad2f5ac2a3dd4d4f6c0753cac829cb67833dd44e91374e18c49043beabdc9b7f74c8664ef5f69eaba3352da409e257076b3d5de7e7cae226fef29a583042f904f0e346aded9db3df5079313598d968b01f4361865c84bb1174a7f28820756ae00f7e59185559b282048d98e9168eb014e4f3dbcba6928e45dadefb4e82e2bcf5e4665dc19c5966d8fbc28c0c50eb5cdcc3d180e43b27f874080ccbc963cfedf717807e4ee82440bcedde9a226395cb9e3932a0f568c5b8a733bf323b4e71628306bb8d56ad88226fcb53a6b202c5d6bddf19ce0a54e8f0af197ac3903296db1ad5946bd8034db031993f01261bb6ff9b872a5ade9a76f825d108e645773f445bf72246a23129fe7fee5874c0d9fff4feff2fa968ed4266f0db3f93f0cef7ff321410bebde3b03849b12836560c3fb103dbcf794d8922f3ddb1793f54f536eb170e4c7fc023320f0ba6e55ba1e809083e4ada72b4ad03975834a01ffb180af75df69b754e97540569271c63502dadbe9564f4158a384b21390c224e74be8d0d06cc0259e8c05fe9cdbf5bd622986cf09d90426efd464aac4b12494181c65e7f6f71c02dfa1c6b47b11b7dfabeafcba87f6f10203010001a321301f301d0603551d0e0416041478206114175fb33b49a2dadc947374a0836fadb3300d06092a864886f70d01010b05000382020100914462017bb119496dcceb6ea6663f85086f7a0c19bdb8efba1e4699758e2c714cd3fe8e6c96cf0e09c56fbffd710598286626680a0ed2063a61ec4c00c73a35cfe24baab04cbaac91faa6b9792cfd10e6fbe55fadb69baa0463962f9266f38017f2a10f3fb426f9ca016b87f156efd24b9cd277353c69614ab307b4e0d9bdc5daf63997fc122e7b63c26ef44a4e51aa6b3536c0e45610e79461fd33449f370b5f37b50562f442eaa4b49ebfcc91414cd65e8a0f65a876bc4fa3e744ddfcf07f0ee0b98e8a7dc12c0bad6b43c1e2b6f39fbfbe3817f45822a3aef032bb93117a57fbf1cdab08bba5f55a8cabf89f55862b670243204b56d9277281cca1f45167ae8c59579c19db682dcc6b30cf62e14a2c1732200b712a1f5bf633cbd044d87df1825e479dac2b4115e28d9ff3f36c69039c4c7b67792ec55860bc8e6f5202dfc4943c84ab67e382b7e454544ea40afa81e7d66dd242161436c167a6dc3883ea076c4da392ea59cb4237f58c8ec804f68a70653cea81dd4ff33dff965cf80a8df667387af39b9d9388e92568462f8939d5f9c7690be4a12bee9b2c6aed8a16bc65f82c7e489b826f80ca09beb22367ae9ef0a1d98f503b7853df7e1bd255897d577c889840b94e0c355e598497c7acda772926a1d278a49f26611ef1d7dd4cd35ccfe3069356f111040f14b434fa8323b5e578669cf9da9f57d9ab7f96583069" timestamp="1702487800" url="https://gitjournal.io/fdroid/repo" version="20002">
 		<description>This is a repository of GitJournal to be used with F-Droid.</description>
 	</repo>
 	<application id="io.gitjournal.gitjournal">
 		<id>io.gitjournal.gitjournal</id>
 		<added>2022-03-17</added>
-		<lastupdated>2022-09-02</lastupdated>
+		<lastupdated>2023-12-13</lastupdated>
 		<name>GitJournal</name>
 		<summary>Mobile First Note Taking integrated with Git</summary>
-		<icon>io.gitjournal.gitjournal.3623.png</icon>
 		<desc>Mobile First Note Taking integrated with Git
 </desc>
 		<license>AGPL-3.0-or-later</license>
@@ -20,7 +19,259 @@
 		<tracker>https://github.com/GitJournal/GitJournal/issues</tracker>
 		<author>Vishesh Handa &lt;vhanda@gitjournal.io&gt;</author>
 		<marketversion></marketversion>
-		<marketvercode>3617</marketvercode>
+		<marketvercode>3741</marketvercode>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3760</versioncode>
+			<apkname>io.gitjournal.gitjournal_3760.apk</apkname>
+			<hash type="sha256">d2a8babe8c3cedd425ed73995b6c41e9a561117e302a2bd77b62c733ec4ba02d</hash>
+			<size>35484681</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3759</versioncode>
+			<apkname>io.gitjournal.gitjournal_3759.apk</apkname>
+			<hash type="sha256">673f400cf39a6f567a6a11ae0a38746853ce637ec28c856e6bf92bab63c63d48</hash>
+			<size>29406753</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3758</versioncode>
+			<apkname>io.gitjournal.gitjournal_3758.apk</apkname>
+			<hash type="sha256">4ee91e63988ed020e97abc15f77ec9bffacfc3dc09b46c4232d8c8975d827988</hash>
+			<size>29406454</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3757</versioncode>
+			<apkname>io.gitjournal.gitjournal_3757.apk</apkname>
+			<hash type="sha256">d8e1cc6b8af9b5e0c431512f0c46fff2862a54f265899f0a6c506b36a6856bb8</hash>
+			<size>29409378</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3755</versioncode>
+			<apkname>io.gitjournal.gitjournal_3755.apk</apkname>
+			<hash type="sha256">c50e6e554f3c362e9a2f12505613d93df788732dfad55df49ec36d0af73bf2e4</hash>
+			<size>29405395</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3752</versioncode>
+			<apkname>io.gitjournal.gitjournal_3752.apk</apkname>
+			<hash type="sha256">ca6624e142d16dc244f4ab5ab9fe212cbc356c4108e1b66ef7defa43f4cb9ca3</hash>
+			<size>29408075</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3751</versioncode>
+			<apkname>io.gitjournal.gitjournal_3751.apk</apkname>
+			<hash type="sha256">152112f4b71669a82ad9cdb6b6877f173e7a304674c8bcca97f4ceed7dfe56ec</hash>
+			<size>29408007</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3750</versioncode>
+			<apkname>io.gitjournal.gitjournal_3750.apk</apkname>
+			<hash type="sha256">f74f8ffce7251d4a8425466e366c0e0071c8902a4428e4e7ad74041de44aac29</hash>
+			<size>29408427</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3749</versioncode>
+			<apkname>io.gitjournal.gitjournal_3749.apk</apkname>
+			<hash type="sha256">f81fc8c588fed7c0427baff214cfed174fc208cd58edb84df1e4941594a85d40</hash>
+			<size>29409196</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3748</versioncode>
+			<apkname>io.gitjournal.gitjournal_3748.apk</apkname>
+			<hash type="sha256">6f814934c5d9f4a230dab99273c0073abb01999f9ded13b1a45966bf2bda9338</hash>
+			<size>29410832</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3746</versioncode>
+			<apkname>io.gitjournal.gitjournal_3746.apk</apkname>
+			<hash type="sha256">540a71aa5a95d59cc8709673d81b9bcd63ffbfba81631a6f58b835a6f244d7c5</hash>
+			<size>29410641</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3744</versioncode>
+			<apkname>io.gitjournal.gitjournal_3744.apk</apkname>
+			<hash type="sha256">6d94c103254a79fc4b6f97a6f9fe0641548a40a811ab6ea418d9d53f43c5f6bf</hash>
+			<size>29098630</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3742</versioncode>
+			<apkname>io.gitjournal.gitjournal_3742.apk</apkname>
+			<hash type="sha256">d52872c4fc6ec93bf03adaef4bac1b1212ed2959674ee3b5112d4b4df1cdddfe</hash>
+			<size>29099151</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3741</versioncode>
+			<apkname>io.gitjournal.gitjournal_3741.apk</apkname>
+			<hash type="sha256">6d0be47aa01ffe89e88cdd6988598b7e9b28e894235c8559c3a78dc1208df94d</hash>
+			<size>29099148</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0</version>
+			<versioncode>3740</versioncode>
+			<apkname>io.gitjournal.gitjournal_3740.apk</apkname>
+			<hash type="sha256">1b16db30df468e99dfa7214d8c265fa0a9900e29ab224de89a1d3807ad562fe7</hash>
+			<size>29099156</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.86.2</version>
+			<versioncode>3739</versioncode>
+			<apkname>io.gitjournal.gitjournal_3739.apk</apkname>
+			<hash type="sha256">15106178d0e335e2b1f7e5a9bf4f0984c30d09a33ee12c65820872be7fc62adc</hash>
+			<size>29099155</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.86.2</version>
+			<versioncode>3738</versioncode>
+			<apkname>io.gitjournal.gitjournal_3738.apk</apkname>
+			<hash type="sha256">9154f936f9adc936a0bec1955173e672650b285e8fe15e5e0e639216e7377035</hash>
+			<size>29099155</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.86.2</version>
+			<versioncode>3735</versioncode>
+			<apkname>io.gitjournal.gitjournal_3735.apk</apkname>
+			<hash type="sha256">3c9f63748100e8648418861826e92004abf4e88c88eb40c0f993a2ba582dc8a2</hash>
+			<size>29099159</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
 		<package>
 			<version>1.85.2</version>
 			<versioncode>3623</versioncode>
@@ -674,11 +925,10 @@
 	</application>
 	<application id="io.gitjournal.gitjournal.dev">
 		<id>io.gitjournal.gitjournal.dev</id>
-		<added>2022-03-17</added>
-		<lastupdated>2022-09-02</lastupdated>
+		<added>2022-06-28</added>
+		<lastupdated>2023-12-13</lastupdated>
 		<name>GitJournal Dev</name>
 		<summary>Mobile First Note Taking integrated with Git</summary>
-		<icon>io.gitjournal.gitjournal.dev.3623.png</icon>
 		<desc>This is the development version. Please use at your own risk.
 
 Mobile First Note Taking integrated with Git
@@ -691,7 +941,259 @@ Mobile First Note Taking integrated with Git
 		<tracker>https://github.com/GitJournal/GitJournal/issues</tracker>
 		<author>Vishesh Handa &lt;vhanda@gitjournal.io&gt;</author>
 		<marketversion></marketversion>
-		<marketvercode>3623</marketvercode>
+		<marketvercode>3760</marketvercode>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3760</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3760.apk</apkname>
+			<hash type="sha256">d62509d50b61b97a465f39bc2b70c14af33914041e9f950ea640d2f06b7c27b7</hash>
+			<size>35484715</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3759</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3759.apk</apkname>
+			<hash type="sha256">86b773d273c64d70efc0c2520deab8ced87cba249235cae41c215f1a2df8de64</hash>
+			<size>29406769</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3758</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3758.apk</apkname>
+			<hash type="sha256">73fb8e1c2f88beea1f7eadf717a711743dd267b6eb717b87c3210a152e042b8b</hash>
+			<size>29406477</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3757</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3757.apk</apkname>
+			<hash type="sha256">ae55b19e4ce6be36e0f3d0bad21255b3f5aefd0fabb79ac4865ca6c38bb7b74f</hash>
+			<size>29409409</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3755</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3755.apk</apkname>
+			<hash type="sha256">bee8a09d3b70d9cf8e1772c5af52e72f38ecf29e023eba37d122bde76338c33e</hash>
+			<size>29405412</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3752</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3752.apk</apkname>
+			<hash type="sha256">d1a20c14c220347c9a9e701089904ae5acdd8542a75a1603aa655ef21eb8da16</hash>
+			<size>29408098</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3751</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3751.apk</apkname>
+			<hash type="sha256">f74b97cabacc8ea9d44156932c1974d5c41043c59d71b50731b23943ccb327d5</hash>
+			<size>29408028</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3750</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3750.apk</apkname>
+			<hash type="sha256">bdab0d831ea7f165448131f5a95768f7edc613124db8da9869e515f06731ab9b</hash>
+			<size>29408457</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3749</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3749.apk</apkname>
+			<hash type="sha256">025faf7ea3e9b434f4b14134ff89181cd149ce3f7318463898df72178ba0a17b</hash>
+			<size>29409214</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3748</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3748.apk</apkname>
+			<hash type="sha256">1c6349844dbb72efeb2d4ed31f75c9dd9ef0bf81423b60c6a02e94d58ed65534</hash>
+			<size>29410849</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3746</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3746.apk</apkname>
+			<hash type="sha256">38e6c894e75d89f8437ff705e375765c065c6b0fbbd531aadfecee4f16c79fc4</hash>
+			<size>29410645</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3744</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3744.apk</apkname>
+			<hash type="sha256">0dae185aeb5cd04a033be8cbe92c580531720c44862226cc86f8d110f90e8937</hash>
+			<size>29098634</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3742</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3742.apk</apkname>
+			<hash type="sha256">5c09b50585b6b65a202117fe8a8f810a4a8a68ca2391a0fc05479d4be01fba60</hash>
+			<size>29099166</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3741</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3741.apk</apkname>
+			<hash type="sha256">6c45958e6987d65d5e9cd67689db11e6e817b92bda0b99d053cecfb9e86a6e58</hash>
+			<size>29099176</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.87.0-dev</version>
+			<versioncode>3740</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3740.apk</apkname>
+			<hash type="sha256">5aea21c2f6e57a6631e069204f8533896a995ac3e862dc0d199250a6520d4a8f</hash>
+			<size>29099165</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.86.2-dev</version>
+			<versioncode>3739</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3739.apk</apkname>
+			<hash type="sha256">97d5aaad6f8193b9c1c50750bf4abdc22eb123d94a20224b53debb4472184c96</hash>
+			<size>29099168</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.86.2-dev</version>
+			<versioncode>3738</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3738.apk</apkname>
+			<hash type="sha256">eb46d83bd57cd874e28d1d286ed33ab6d5b89805f8c89b0bb7bd8b6e0688c843</hash>
+			<size>29099161</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>1.86.2-dev</version>
+			<versioncode>3735</versioncode>
+			<apkname>io.gitjournal.gitjournal.dev_3735.apk</apkname>
+			<hash type="sha256">8963fa761c7b1bb0bff1e01a8cf781667121dd40b12d1c2c7d6fb0dfa12a6054</hash>
+			<size>29099161</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2023-12-13</added>
+			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="33" name="android.permission.SCHEDULE_EXACT_ALARM"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
 		<package>
 			<version>1.85.2-dev</version>
 			<versioncode>3623</versioncode>
@@ -820,513 +1322,6 @@ Mobile First Note Taking integrated with Git
 			<added>2022-06-28</added>
 			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.85.0-dev</version>
-			<versioncode>3599</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3599.apk</apkname>
-			<hash type="sha256">c1118dde271b62346b7fac6757273e4700be9533cff9fbb7a068a1eede2febf5</hash>
-			<size>26818614</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-28</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.85.0-dev</version>
-			<versioncode>3598</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3598.apk</apkname>
-			<hash type="sha256">445dbfad1fdd44060f159e96763861bc1640a800d4d5f48f25588ba8c171b79a</hash>
-			<size>26818620</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-28</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.85.0-dev</version>
-			<versioncode>3580</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3580.apk</apkname>
-			<hash type="sha256">cf3c1f1528d62a938b69d154cae9a212906564a7a7b5bc398a0b4d265ee5bd38</hash>
-			<size>26795986</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-26</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.85.0-dev</version>
-			<versioncode>3578</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3578.apk</apkname>
-			<hash type="sha256">12b497b6d03adf7470f49dd0959c1e068fa6c2a08ad78ff31c7ce215db6f6dd3</hash>
-			<size>26946569</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-25</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.85.0-dev</version>
-			<versioncode>3577</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3577.apk</apkname>
-			<hash type="sha256">8f05c335b9fb90c89a7c7e2f02f2109cab9634f89706df008027c761f5809ca3</hash>
-			<size>26945664</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-23</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.85.0-dev</version>
-			<versioncode>3576</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3576.apk</apkname>
-			<hash type="sha256">05eafed0b60bf711f30eb6ab51a86519f482f39adfc563f6722e972538089388</hash>
-			<size>26945654</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-22</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.85.0-dev</version>
-			<versioncode>3575</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3575.apk</apkname>
-			<hash type="sha256">3956f88cdc127ff18786993a29ad9f126dedaa1ff68aea3f86b4c72de5714296</hash>
-			<size>26945660</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-22</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.85.0-dev</version>
-			<versioncode>3574</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3574.apk</apkname>
-			<hash type="sha256">989dc39420e330c0da7d9553e20f98450f9804f9aa5a4315e8e7f2b2b91d0ca5</hash>
-			<size>26945669</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-22</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.85.0-dev</version>
-			<versioncode>3570</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3570.apk</apkname>
-			<hash type="sha256">e11e1e730e62215d8f26b01896678707f8fb74abde274126f92d43f5e3c8a325</hash>
-			<size>26944026</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-22</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.85.0-dev</version>
-			<versioncode>3569</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3569.apk</apkname>
-			<hash type="sha256">1d0143ce285a8614130d4a31cf06192e6b5b710aa50a5e4f0c6f09961153b9f3</hash>
-			<size>26943229</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-22</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.1-dev</version>
-			<versioncode>3566</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3566.apk</apkname>
-			<hash type="sha256">0a84f6222ec8140383d34864495fed2abbcdec20d8e9629d6c7854760b5b1ffb</hash>
-			<size>26938105</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-22</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.1-dev</version>
-			<versioncode>3564</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3564.apk</apkname>
-			<hash type="sha256">e9d6cf5dde501c5052f1ef2bc5f1bd9d51216a74a3ffa5aa0982b2955eafc40b</hash>
-			<size>26929822</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-14</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.1-dev</version>
-			<versioncode>3563</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3563.apk</apkname>
-			<hash type="sha256">97ece22d76d52dae4ddec3cc29eb676fc32486f9e48f6c54854eb8fdad359181</hash>
-			<size>26929815</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-13</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.1-dev</version>
-			<versioncode>3562</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3562.apk</apkname>
-			<hash type="sha256">4be11461cd7b17fdbeaf7a48c26900eba2a318186f1991ab647a643a4b390cf6</hash>
-			<size>26929813</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-11</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.1-dev</version>
-			<versioncode>3560</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3560.apk</apkname>
-			<hash type="sha256">bebac210688fcc56cda6ad8e634e77f93babad7f538910dd13e625f4dfd9a563</hash>
-			<size>26929803</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-10</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.1-dev</version>
-			<versioncode>3559</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3559.apk</apkname>
-			<hash type="sha256">945c2e5c9699b294d631d0dd156433fb53c34abfd109b9b808a698a78ab4635a</hash>
-			<size>26929534</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-10</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.1-dev</version>
-			<versioncode>3557</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3557.apk</apkname>
-			<hash type="sha256">bebcee04578ef96aafed09c680d8ae46ec5843ee22431241eba73966e84dabf8</hash>
-			<size>26924575</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-08</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.1-dev</version>
-			<versioncode>3553</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3553.apk</apkname>
-			<hash type="sha256">4a0aabf9eb881b3dfe25c4ae6293ff798e23e607d7c1e5133a42b591a789b2cf</hash>
-			<size>26695229</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-07</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.1-dev</version>
-			<versioncode>3552</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3552.apk</apkname>
-			<hash type="sha256">8b1b89fd6ea6734fd2a65a68e5c4aafaa296d48851e1d5f16b4fd604a5d5c431</hash>
-			<size>26670900</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-05</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.0-dev</version>
-			<versioncode>3550</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3550.apk</apkname>
-			<hash type="sha256">a71fcf65813ac527bce48e14c27226737e2748eb0641891257b8c460700883fe</hash>
-			<size>26670277</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-17</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.0-dev</version>
-			<versioncode>3549</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3549.apk</apkname>
-			<hash type="sha256">c422b8b06d4a1804ce99dcec54a21b8bdd44d6dbf9ec5bbdb21cc67e45c24636</hash>
-			<size>26659535</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-17</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.0-dev</version>
-			<versioncode>3548</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3548.apk</apkname>
-			<hash type="sha256">d3aa96e5f9672b6c075a32c70fd7721cefc35dc8e77d25a26679ffb3f3f2624a</hash>
-			<size>26659566</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-17</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.0-dev</version>
-			<versioncode>3547</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3547.apk</apkname>
-			<hash type="sha256">08eccde61bb4ff2a07161601c358e3aa7f6511b4d0e0aa2a308bcf4475956e2f</hash>
-			<size>26656127</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-04-25</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.84.0-dev</version>
-			<versioncode>3545</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3545.apk</apkname>
-			<hash type="sha256">a51e86078217de1472b6b933110c25935f3762058cc5ec12b4215684c2b15399</hash>
-			<size>26647939</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-04-23</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.11-dev</version>
-			<versioncode>3543</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3543.apk</apkname>
-			<hash type="sha256">4b86a020259297ed819887ee9aabade3c1e14132d8574b3aa2045e8856fb3403</hash>
-			<size>26423339</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-31</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.11-dev</version>
-			<versioncode>3542</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3542.apk</apkname>
-			<hash type="sha256">7e922c7bfd87144d0f090adf673bc359a325a99819d9c8dd6c6e2d6ff114d10f</hash>
-			<size>26422484</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-31</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.11-dev</version>
-			<versioncode>3541</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3541.apk</apkname>
-			<hash type="sha256">e56dc53f0736538f8ac070240b375d8543a63975cf70d1623f1a884905b3d8ec</hash>
-			<size>26422592</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-26</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.11-dev</version>
-			<versioncode>3540</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3540.apk</apkname>
-			<hash type="sha256">d2f149920b128f1a51b5e8579a749699642d63ed92c2f10ac6f0f4155369543b</hash>
-			<size>26422584</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-26</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.10-dev</version>
-			<versioncode>3538</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3538.apk</apkname>
-			<hash type="sha256">81a11ec7b569ecbc72b6fc47c12482cb0e2b2471f5c1ecf6a6a9861b8b4b35f3</hash>
-			<size>26422596</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-26</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.10-dev</version>
-			<versioncode>3536</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3536.apk</apkname>
-			<hash type="sha256">7a54d86528c71fb9bbd8543c1988bd644c68492e0b8526f5c0d3bc558adbc2a6</hash>
-			<size>26424795</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-26</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.10-dev</version>
-			<versioncode>3535</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3535.apk</apkname>
-			<hash type="sha256">e03e3dd3ac9ca660dece0ed78bed2869f9c1be7fe1a53b131be0027606f0d5b0</hash>
-			<size>26424792</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-25</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.10-dev</version>
-			<versioncode>3534</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3534.apk</apkname>
-			<hash type="sha256">ee69f70f65259c2728c9520f53df9bf7002ebeb0a23d1815835774c8d51b8b5e</hash>
-			<size>26424583</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-23</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.10-dev</version>
-			<versioncode>3533</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3533.apk</apkname>
-			<hash type="sha256">cc3f6da2623b84fc0696fac29757d8ce1262f06ec867f9d95ed27a7b24a256a5</hash>
-			<size>26424577</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-19</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.9-dev</version>
-			<versioncode>3531</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3531.apk</apkname>
-			<hash type="sha256">0a8042173e6d990255977a42643f6ab9adc55cc5b11e5f057e0d3cfb4291d52d</hash>
-			<size>26424672</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-19</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.9-dev</version>
-			<versioncode>3527</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3527.apk</apkname>
-			<hash type="sha256">8568907f03fe5bf80f2cb58de46ea3d993f37ef29fdf24bf821f136c169c1818</hash>
-			<size>26426304</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-17</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.9-dev</version>
-			<versioncode>3526</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3526.apk</apkname>
-			<hash type="sha256">25a38a76791f9ffd05ffdf3e6a50d7218b42444e36894b1eb7e566d8039ef439</hash>
-			<size>26424747</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-17</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.8-dev</version>
-			<versioncode>3524</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3524.apk</apkname>
-			<hash type="sha256">5238731f4398cf105358f3fae8d2a04d321ee9a493a8ed663231084c6ec2af9a</hash>
-			<size>26424729</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-17</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.8-dev</version>
-			<versioncode>3523</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3523.apk</apkname>
-			<hash type="sha256">52ec6f041ae6da94b2cd46db36233013185f7423ec3ea1be861ba8b7c3faf49a</hash>
-			<size>26424491</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-17</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>1.83.8-dev</version>
-			<versioncode>3522</versioncode>
-			<apkname>io.gitjournal.gitjournal.dev_3522.apk</apkname>
-			<hash type="sha256">c182a6ee2f9ec7284091ed7b2c09a50bd339606ab8c29e2db7e3316b38af7565</hash>
-			<size>26424481</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-03-17</added>
-			<sig>55759bc801dcf3944d019152cd10eb7d</sig>
-			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
 		</package>
 	</application>
