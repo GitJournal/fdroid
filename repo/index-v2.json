@@ -14,7 +14,7 @@
       }
     },
     "address": "https://gitjournal.io/fdroid/repo",
-    "timestamp": 1705454693000
+    "timestamp": 1705491913000
   },
   "packages": {
     "io.gitjournal.gitjournal": {
@@ -94,10 +94,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "e6ec2c53ffab631a66bd322f8c57e09ae5dff30a9782b608603f3a81cc08611f": {
           "added": 1703280585000,
@@ -152,10 +149,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "2e658768d425cc4734baea61f95cecb3525deba3e2528d3ec8119ecad459ef24": {
           "added": 1702603453000,
@@ -210,10 +204,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "ab3547a0d417286583f42b4b49bcafed48d66260ee9c1fc8421eee230742197b": {
           "added": 1702603453000,
@@ -268,10 +259,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "d2a8babe8c3cedd425ed73995b6c41e9a561117e302a2bd77b62c733ec4ba02d": {
           "added": 1702487839000,
@@ -326,10 +314,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "673f400cf39a6f567a6a11ae0a38746853ce637ec28c856e6bf92bab63c63d48": {
           "added": 1702487839000,
@@ -384,10 +369,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "4ee91e63988ed020e97abc15f77ec9bffacfc3dc09b46c4232d8c8975d827988": {
           "added": 1702487839000,
@@ -442,10 +424,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "d8e1cc6b8af9b5e0c431512f0c46fff2862a54f265899f0a6c506b36a6856bb8": {
           "added": 1702487839000,
@@ -500,10 +479,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "c50e6e554f3c362e9a2f12505613d93df788732dfad55df49ec36d0af73bf2e4": {
           "added": 1702487839000,
@@ -558,10 +534,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "ca6624e142d16dc244f4ab5ab9fe212cbc356c4108e1b66ef7defa43f4cb9ca3": {
           "added": 1702487839000,
@@ -616,10 +589,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "152112f4b71669a82ad9cdb6b6877f173e7a304674c8bcca97f4ceed7dfe56ec": {
           "added": 1702487839000,
@@ -674,10 +644,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "f74f8ffce7251d4a8425466e366c0e0071c8902a4428e4e7ad74041de44aac29": {
           "added": 1702487839000,
@@ -732,10 +699,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "f81fc8c588fed7c0427baff214cfed174fc208cd58edb84df1e4941594a85d40": {
           "added": 1702487839000,
@@ -790,10 +754,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "6f814934c5d9f4a230dab99273c0073abb01999f9ded13b1a45966bf2bda9338": {
           "added": 1702487839000,
@@ -848,10 +809,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "540a71aa5a95d59cc8709673d81b9bcd63ffbfba81631a6f58b835a6f244d7c5": {
           "added": 1702487839000,
@@ -906,10 +864,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "6d94c103254a79fc4b6f97a6f9fe0641548a40a811ab6ea418d9d53f43c5f6bf": {
           "added": 1702487839000,
@@ -964,10 +919,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "d52872c4fc6ec93bf03adaef4bac1b1212ed2959674ee3b5112d4b4df1cdddfe": {
           "added": 1702487839000,
@@ -1022,10 +974,7 @@
                 "maxSdkVersion": 33
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "6d0be47aa01ffe89e88cdd6988598b7e9b28e894235c8559c3a78dc1208df94d": {
           "added": 1702487839000,
