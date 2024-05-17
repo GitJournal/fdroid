@@ -14,7 +14,7 @@
       }
     },
     "address": "https://gitjournal.io/fdroid/repo",
-    "timestamp": 1715822639000
+    "timestamp": 1715909050000
   },
   "packages": {
     "io.gitjournal.gitjournal": {
@@ -24,7 +24,7 @@
           "Writing"
         ],
         "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
-        "lastUpdated": 1715822528000,
+        "lastUpdated": 1715822647000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/GitJournal/GitJournal",
         "webSite": "https://gitjournal.io/",
@@ -42,7 +42,7 @@
       },
       "versions": {
         "3abbf683e7655f354677bfd0ceb4a24cd5f0bd849ddda210a66f2344b21e9ed0": {
-          "added": 1715822524000,
+          "added": 1715822647000,
           "file": {
             "name": "/io.gitjournal.gitjournal_3773.apk",
             "sha256": "3abbf683e7655f354677bfd0ceb4a24cd5f0bd849ddda210a66f2344b21e9ed0",
@@ -90,7 +90,7 @@
           ]
         },
         "b02ed47224068d5e651709669edb67a46742042a84671da047ff1f0b7f39f3c9": {
-          "added": 1715822528000,
+          "added": 1715822647000,
           "file": {
             "name": "/io.gitjournal.gitjournal_3772.apk",
             "sha256": "b02ed47224068d5e651709669edb67a46742042a84671da047ff1f0b7f39f3c9",
@@ -4095,7 +4095,7 @@
           "Writing"
         ],
         "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
-        "lastUpdated": 1715822528000,
+        "lastUpdated": 1715822647000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/GitJournal/GitJournal",
         "webSite": "https://gitjournal.io/",
@@ -4113,7 +4113,7 @@
       },
       "versions": {
         "7fed33f3d9fbbe70ba8008f5036b7f3eca515d9580fbc796c9d0088a36571435": {
-          "added": 1715822524000,
+          "added": 1715822647000,
           "file": {
             "name": "/io.gitjournal.gitjournal.dev_3773.apk",
             "sha256": "7fed33f3d9fbbe70ba8008f5036b7f3eca515d9580fbc796c9d0088a36571435",
@@ -4158,7 +4158,7 @@
           }
         },
         "d45ab2482e1ade6c16ce1c357aba385b9bba738eb47ea3169a2a41cedaac39b5": {
-          "added": 1715822528000,
+          "added": 1715822647000,
           "file": {
             "name": "/io.gitjournal.gitjournal.dev_3772.apk",
             "sha256": "d45ab2482e1ade6c16ce1c357aba385b9bba738eb47ea3169a2a41cedaac39b5",
