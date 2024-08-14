@@ -14,7 +14,7 @@
       }
     },
     "address": "https://gitjournal.io/fdroid/repo",
-    "timestamp": 1723673283000
+    "timestamp": 1723673959000
   },
   "packages": {
     "io.gitjournal.gitjournal": {
@@ -24,7 +24,7 @@
           "Writing"
         ],
         "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
-        "lastUpdated": 1723673171000,
+        "lastUpdated": 1723673836000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/GitJournal/GitJournal",
         "webSite": "https://gitjournal.io/",
@@ -41,8 +41,56 @@
         "preferredSigner": "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
       },
       "versions": {
+        "434d4f39f24d904c573ee03ab2afd1465a41d76804fcd0042c8c53ea8282e0c1": {
+          "added": 1723673836000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal_3780.apk",
+            "sha256": "434d4f39f24d904c573ee03ab2afd1465a41d76804fcd0042c8c53ea8282e0c1",
+            "size": 39036562
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.88.0",
+            "versionCode": 3780,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
         "fdb3c4818af736cd97f417af2ada8c797f99b22e7c061c47213f7ca359b26602": {
-          "added": 1723673171000,
+          "added": 1723673289000,
           "file": {
             "name": "/io.gitjournal.gitjournal_3778.apk",
             "sha256": "fdb3c4818af736cd97f417af2ada8c797f99b22e7c061c47213f7ca359b26602",
@@ -4143,7 +4191,7 @@
           "Writing"
         ],
         "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
-        "lastUpdated": 1723673171000,
+        "lastUpdated": 1723673836000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/GitJournal/GitJournal",
         "webSite": "https://gitjournal.io/",
@@ -4160,8 +4208,53 @@
         "preferredSigner": "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
       },
       "versions": {
+        "c654e4e60aa3c60a2fa5466074a36ac56b3d2e011d08168d351412b83d5be646": {
+          "added": 1723673836000,
+          "file": {
+            "name": "/io.gitjournal.gitjournal.dev_3780.apk",
+            "sha256": "c654e4e60aa3c60a2fa5466074a36ac56b3d2e011d08168d351412b83d5be646",
+            "size": 39036614
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "1.88.0-dev",
+            "versionCode": 3780,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "8416c9d805d7dc75a053696615d8b148f09a3739b636de15ad499f5a8c5d5c66": {
-          "added": 1723673171000,
+          "added": 1723673289000,
           "file": {
             "name": "/io.gitjournal.gitjournal.dev_3778.apk",
             "sha256": "8416c9d805d7dc75a053696615d8b148f09a3739b636de15ad499f5a8c5d5c66",
