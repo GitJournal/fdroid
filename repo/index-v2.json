@@ -14,7 +14,7 @@
       }
     },
     "address": "https://gitjournal.io/fdroid/repo",
-    "timestamp": 1723827061000
+    "timestamp": 1723828703000
   },
   "packages": {
     "io.gitjournal.gitjournal": {
@@ -24,7 +24,7 @@
           "Writing"
         ],
         "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
-        "lastUpdated": 1723685286000,
+        "lastUpdated": 1723828588000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/GitJournal/GitJournal",
         "webSite": "https://gitjournal.io/",
@@ -89,12 +89,12 @@
             "Beta"
           ]
         },
-        "434d4f39f24d904c573ee03ab2afd1465a41d76804fcd0042c8c53ea8282e0c1": {
-          "added": 1723673966000,
+        "a1506d2d805227142f65b46c40be89f21bb1db73ac6f053953f76700e1d6eee6": {
+          "added": 1723828588000,
           "file": {
             "name": "/io.gitjournal.gitjournal_3780.apk",
-            "sha256": "434d4f39f24d904c573ee03ab2afd1465a41d76804fcd0042c8c53ea8282e0c1",
-            "size": 39036562
+            "sha256": "a1506d2d805227142f65b46c40be89f21bb1db73ac6f053953f76700e1d6eee6",
+            "size": 39171142
           },
           "manifest": {
             "nativecode": [
@@ -4239,7 +4239,7 @@
           "Writing"
         ],
         "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
-        "lastUpdated": 1723685286000,
+        "lastUpdated": 1723828588000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/GitJournal/GitJournal",
         "webSite": "https://gitjournal.io/",
@@ -4301,12 +4301,12 @@
             ]
           }
         },
-        "c654e4e60aa3c60a2fa5466074a36ac56b3d2e011d08168d351412b83d5be646": {
-          "added": 1723673966000,
+        "0812568e73545d551bb2f3349ce3d54d2a0429746edb2d7a1947391ac7f713ec": {
+          "added": 1723828588000,
           "file": {
             "name": "/io.gitjournal.gitjournal.dev_3780.apk",
-            "sha256": "c654e4e60aa3c60a2fa5466074a36ac56b3d2e011d08168d351412b83d5be646",
-            "size": 39036614
+            "sha256": "0812568e73545d551bb2f3349ce3d54d2a0429746edb2d7a1947391ac7f713ec",
+            "size": 39171199
           },
           "manifest": {
             "nativecode": [
