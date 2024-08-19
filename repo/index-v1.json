@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1724011211000,
+    "timestamp": 1724031635000,
     "version": 20002,
     "maxage": 7,
     "name": "GitJournal",
@@ -28,14 +28,14 @@
       "webSite": "https://gitjournal.io/",
       "added": 1647528015000,
       "packageName": "io.gitjournal.gitjournal",
-      "lastUpdated": 1724011086000
+      "lastUpdated": 1724031510000
     },
     {
       "authorName": "Vishesh Handa <vhanda@gitjournal.io>",
       "categories": [
         "Writing"
       ],
-      "suggestedVersionCode": "3786",
+      "suggestedVersionCode": "3787",
       "description": "This is the development version. Please use at your own risk.\n\nMobile First Note Taking integrated with Git\n",
       "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
       "license": "AGPL-3.0-or-later",
@@ -45,13 +45,57 @@
       "webSite": "https://gitjournal.io/",
       "added": 1656449299000,
       "packageName": "io.gitjournal.gitjournal.dev",
-      "lastUpdated": 1724011086000
+      "lastUpdated": 1724031510000
     }
   ],
   "packages": {
     "io.gitjournal.gitjournal": [
       {
-        "added": 1724011086000,
+        "added": 1724031510000,
+        "apkName": "io.gitjournal.gitjournal_3787.apk",
+        "hash": "fb6584920a3432ecc046a117d6a141414bbc57c0471a675e8d90e4cf41ff8da4",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "io.gitjournal.gitjournal",
+        "sig": "55759bc801dcf3944d019152cd10eb7d",
+        "signer": "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70",
+        "size": 39303660,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 3787,
+        "versionName": "1.89.0"
+      },
+      {
+        "added": 1724011218000,
         "apkName": "io.gitjournal.gitjournal_3786.apk",
         "hash": "571b510dea832ea1580d47c858dabd9162d870a14c9153ed81a88499a5282150",
         "hashType": "sha256",
@@ -4449,7 +4493,51 @@
     ],
     "io.gitjournal.gitjournal.dev": [
       {
-        "added": 1724011086000,
+        "added": 1724031510000,
+        "apkName": "io.gitjournal.gitjournal.dev_3787.apk",
+        "hash": "02b5674ee49b332fd0b2ed6f48adbf54152bc70a0223978e24a8ead450a115d5",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "io.gitjournal.gitjournal.dev",
+        "sig": "55759bc801dcf3944d019152cd10eb7d",
+        "signer": "40b9cd5d2cbdce268d2d7797028e0a0c5ee7c2e362ea2a0f72a74e9d8da3da70",
+        "size": 39303644,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "io.gitjournal.gitjournal.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 3787,
+        "versionName": "1.89.0-dev"
+      },
+      {
+        "added": 1724011218000,
         "apkName": "io.gitjournal.gitjournal.dev_3786.apk",
         "hash": "3fe3dedcf0616341eeb7396be65b765f51ac3f5fed5385052fd67efe297e44c8",
         "hashType": "sha256",
