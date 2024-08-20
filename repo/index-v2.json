@@ -14,7 +14,7 @@
       }
     },
     "address": "https://gitjournal.io/fdroid/repo",
-    "timestamp": 1724031635000
+    "timestamp": 1724117891000
   },
   "packages": {
     "io.gitjournal.gitjournal": {
@@ -24,7 +24,7 @@
           "Writing"
         ],
         "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
-        "lastUpdated": 1724031510000,
+        "lastUpdated": 1724031640000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/GitJournal/GitJournal",
         "webSite": "https://gitjournal.io/",
@@ -42,7 +42,7 @@
       },
       "versions": {
         "fb6584920a3432ecc046a117d6a141414bbc57c0471a675e8d90e4cf41ff8da4": {
-          "added": 1724031510000,
+          "added": 1724031640000,
           "file": {
             "name": "/io.gitjournal.gitjournal_3787.apk",
             "sha256": "fb6584920a3432ecc046a117d6a141414bbc57c0471a675e8d90e4cf41ff8da4",
@@ -4431,7 +4431,7 @@
           "Writing"
         ],
         "issueTracker": "https://github.com/GitJournal/GitJournal/issues",
-        "lastUpdated": 1724031510000,
+        "lastUpdated": 1724031640000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/GitJournal/GitJournal",
         "webSite": "https://gitjournal.io/",
@@ -4449,7 +4449,7 @@
       },
       "versions": {
         "02b5674ee49b332fd0b2ed6f48adbf54152bc70a0223978e24a8ead450a115d5": {
-          "added": 1724031510000,
+          "added": 1724031640000,
           "file": {
             "name": "/io.gitjournal.gitjournal.dev_3787.apk",
             "sha256": "02b5674ee49b332fd0b2ed6f48adbf54152bc70a0223978e24a8ead450a115d5",
