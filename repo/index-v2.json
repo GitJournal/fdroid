@@ -14,7 +14,7 @@
       }
     },
     "address": "https://gitjournal.io/fdroid/repo",
-    "timestamp": 1724722873000
+    "timestamp": 1724809318000
   },
   "packages": {
     "io.gitjournal.gitjournal": {
@@ -84,10 +84,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "54726ead3523f03bb1a42d3df3bfdd6c252ca8a758ffe6fa0e9bb7e05b200864": {
           "added": 1724533788000,
@@ -132,10 +129,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "fb6584920a3432ecc046a117d6a141414bbc57c0471a675e8d90e4cf41ff8da4": {
           "added": 1724031640000,
@@ -180,10 +174,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "571b510dea832ea1580d47c858dabd9162d870a14c9153ed81a88499a5282150": {
           "added": 1724011218000,
@@ -228,10 +219,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "62e209b79f8294b2e0ee2e8fc4110bec56c654e8a5dade5877a30726f4921c60": {
           "added": 1723858244000,
@@ -276,10 +264,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "a2b9920949d5bea41b73ab14bb8aca6f11ed70cee3f23e441899920827e0fe75": {
           "added": 1723850250000,
@@ -324,10 +309,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "06a8eaab0e2a4ca6d6d960111c3465745796eb316f491fb337633392c196da8f": {
           "added": 1723685286000,
@@ -372,10 +354,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "a1506d2d805227142f65b46c40be89f21bb1db73ac6f053953f76700e1d6eee6": {
           "added": 1723828709000,
@@ -420,10 +399,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "fdb3c4818af736cd97f417af2ada8c797f99b22e7c061c47213f7ca359b26602": {
           "added": 1723673289000,
@@ -468,10 +444,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "3abbf683e7655f354677bfd0ceb4a24cd5f0bd849ddda210a66f2344b21e9ed0": {
           "added": 1715822647000,
@@ -516,10 +489,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "b02ed47224068d5e651709669edb67a46742042a84671da047ff1f0b7f39f3c9": {
           "added": 1715822647000,
@@ -564,10 +534,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "755f68722e57f578f04762058d94f30e64859c8afa6f481e843f2a90c7456332": {
           "added": 1715753027000,
@@ -612,10 +579,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "f4386c086e08b10ee0f2f8915e3cffcfdd9dce707a57e070bf4be09280e740e8": {
           "added": 1705541048000,
@@ -660,10 +624,7 @@
                 "name": "io.gitjournal.gitjournal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "fa3f26953c2415cd83020216328999aaee78c7c8c80fda271225d1f94ede9f30": {
           "added": 1703294383000,
