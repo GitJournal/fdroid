@@ -14,7 +14,14 @@
       }
     },
     "address": "https://gitjournal.io/fdroid/repo",
-    "timestamp": 1732154068000
+    "timestamp": 1735955217000,
+    "categories": {
+      "Writing": {
+        "name": {
+          "en-US": "Writing"
+        }
+      }
+    }
   },
   "packages": {
     "io.gitjournal.gitjournal": {

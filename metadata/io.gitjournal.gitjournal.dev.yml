@@ -9,9 +9,9 @@ IssueTracker: https://github.com/GitJournal/GitJournal/issues
 Name: GitJournal Dev
 Summary: Mobile First Note Taking integrated with Git
 Description: |
-    This is the development version. Please use at your own risk.
+  This is the development version. Please use at your own risk.
 
-    Mobile First Note Taking integrated with Git
+  Mobile First Note Taking integrated with Git
 
 AutoUpdateMode: None
 UpdateCheckMode: None
